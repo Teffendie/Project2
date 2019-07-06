@@ -1,0 +1,351 @@
+SALE TYPE,SOLD DATE,PROPERTY TYPE,ADDRESS,CITY,STATE OR PROVINCE,ZIP OR POSTAL CODE,PRICE,BEDS,BATHS,LOCATION,SQUARE FEET,LOT SIZE,YEAR BUILT,DAYS ON MARKET,$/SQUARE FEET,HOA/MONTH,STATUS,NEXT OPEN HOUSE START TIME,NEXT OPEN HOUSE END TIME,SOURCE,MLS#,FAVORITE,INTERESTED,LATITUDE,LONGITUDE
+MLS Listing,,Single Family Residential,4600 Manila Ave,Oakland,CA,94609,899000,2,1,Alameda County,1065,,1922,1,844,,Active,June-24-2019 10:00 AM,June-24-2019 01:00 PM,BAREIS,21913970,N,Y,37.8336994,-122.2559137
+MLS Listing,,Condo/Co-op,438 W Grand Ave #722,Oakland,CA,94612,849000,2,2,Uptown,1388,,2008,1,612,586,Active,June-29-2019 02:00 PM,June-29-2019 04:00 PM,Bridge MLS,40871461,N,Y,37.8118317,-122.267668
+MLS Listing,,Single Family Residential,2629 Ohio Ave,Richmond,CA,94804,499000,3,1,Richmond,1081,3838,1923,1,462,,Active,,,Bridge MLS,40871448,N,Y,37.9310945,-122.3439863
+MLS Listing,,Single Family Residential,7940 Earl St,Oakland,CA,94605,599000,3,2,Alameda County,1290,5001,1933,2,464,,Active,June-24-2019 10:00 AM,June-24-2019 01:00 PM,BAREIS,21915836,N,Y,37.7705599,-122.1565765
+MLS Listing,,Single Family Residential,9246 Crosscourt Way,Elk Grove,CA,95624,445000,3,2,Elk Grove,1777,6499,1998,2,,,Active,,,MetroList,19043470,N,Y,38.4494038,-121.3548422
+MLS Listing,,Single Family Residential,6801 Salewsky Ct,Elk Grove,CA,95757,470000,4,3,Elk Grove,2265,6046,2005,2,,,Active,,,MetroList,19043598,N,Y,38.3938394,-121.4220913
+MLS Listing,,Single Family Residential,410 Birkhaven Pl,SAN JOSE,CA,95138,889999,3,2.5,SAN JOSE,1457,2473,1997,2,611,132,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,MLSListings,ML81757794,N,Y,37.2404673,-121.7627633
+MLS Listing,,Condo/Co-op,144 S 3rd St #526,SAN JOSE,CA,95112,829000,2,2,SAN JOSE,1421,1509,1997,2,583,600,Active,,,MLSListings,ML81757787,N,Y,37.3346801,-121.8861555
+MLS Listing,,Single Family Residential,3390 Idlewild,Reno,NV,89509-2212,664900,5,3,Reno-Old Southwest,2954,10454,1965,2,225,,Active,,,NNRMLS,190009414,N,Y,39.5107337,-119.8513994
+MLS Listing,,Single Family Residential,22 Pizarro Ave,Novato,CA,94949,999000,4,2.5,Novato,2068,6312,1998,2,483,13,Active,June-26-2019 09:30 AM,June-26-2019 12:30 PM,BAREIS,21915834,N,Y,38.0605537,-122.5165226
+MLS Listing,,Single Family Residential,4417 Tallyho Dr,Sacramento,CA,95826,315000,3,2,Sacramento Rosemont/College Greens/Mayhew,1158,5201,1979,2,,,Active,,,MetroList,19043996,N,Y,38.542493,-121.350355
+MLS Listing,,Condo/Co-op,1032 Los Gamos Rd Unit F,San Rafael,CA,94903,380000,2,1,San Rafael,,506603,,2,,560,Active,June-27-2019 10:30 AM,June-27-2019 02:00 PM,BAREIS,21915841,N,Y,38.0101328,-122.5437458
+MLS Listing,,Single Family Residential,1021 Seneca Ct,Walnut Creek,CA,94598,1300000,4,2.5,Northgate,2114,9900,1972,2,615,,Active,,,Bridge MLS,40871361,N,Y,37.906361,-122.0171035
+MLS Listing,,Single Family Residential,1009 Pinewood Ct,Madera,CA,93637,238500,2,2,Madera,1412,4910,1989,2,169,,Active,,,FRESNOMLS,525512,N,Y,36.9659406,-120.0911205
+MLS Listing,,Single Family Residential,72 Avenida Martinez,El Sobrante,CA,94803,599000,3,2,Contra Costa,1485,8093,1965,2,403,,Active,June-30-2019 02:00 PM,June-30-2019 04:00 PM,BAREIS,21915835,N,Y,37.9668912,-122.2946509
+MLS Listing,,Single Family Residential,5325 Trask St,Oakland,CA,94601,799000,4,2.5,Alameda County,2034,5301,1912,2,393,,Active,June-24-2019 10:00 AM,June-24-2019 01:00 PM,BAREIS,21915843,N,Y,37.7742138,-122.197951
+MLS Listing,,Single Family Residential,8042 Yule Tree Ln,Sebastopol,CA,95472,1375000,3,2,Sebastopol,2871,75794,1960,2,479,,Active,,,BAREIS,21915570,N,Y,38.3764449,-122.8358845
+MLS Listing,,Single Family Residential,5267 Belvedere St,Oakland,CA,94601,699000,2,1,Fairfax,1208,5200,1922,2,579,,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40871288,N,Y,37.7743274,-122.1999018
+MLS Listing,,Single Family Residential,3492 Pinewood Dr,Hayward,CA,94542,949800,5,3,Hayward Hills,2599,14141,1972,2,365,,Active,,,Bridge MLS,40871247,N,Y,37.6508797,-122.0304483
+MLS Listing,,Single Family Residential,2032 Beckett Dr,El Dorado Hills,CA,95762,614900,4,2.5,El Dorado Hills,2741,7623,2006,2,,201,Active,,,MetroList,19043840,N,Y,38.6811863,-121.0338236
+MLS Listing,,Single Family Residential,553 N Baywood Ave,SAN JOSE,CA,95128,1099888,3,1,SAN JOSE,1134,5416,1950,2,970,,Active,,,MLSListings,ML81754493,N,Y,37.327586,-121.9454668
+MLS Listing,,Single Family Residential,979 Dee Ct,Walnut Creek,CA,94597,1185500,4,2.5,Walnut Creek,2312,4530,2006,2,513,,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40871210,N,Y,37.9258809,-122.066048
+MLS Listing,,Single Family Residential,113 Nantucket Cir,Vacaville,CA,95687,474000,4,2,Vacaville 5,1824,5885,1989,2,260,,Active,,,BAREIS,21911739,N,Y,38.3530677,-121.9545767
+MLS Listing,,Single Family Residential,3229 Gosport Way,Rancho Cordova,CA,95670,420000,4,2.5,Ranch Cordova/Gold River,1713,2017,2017,3,,45,Active,,,MetroList,19042856,N,Y,38.58195,-121.281268
+MLS Listing,,Single Family Residential,3905 Lasuen Dr,Sacramento,CA,95821,330000,3,1,Sacramento Arden/Arcade Creek/Vicinity,1189,7802,1950,3,,,Active,,,MetroList,19042898,N,Y,38.6134404,-121.374108
+MLS Listing,,Single Family Residential,3075 Shiles Loop,Brentwood,CA,94513,510000,3,2,Ca Spirit,1706,7500,1995,3,299,,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40871107,N,Y,37.9199735,-121.6882586
+MLS Listing,,Single Family Residential,707 Gray Dawn Dr,Rocklin,CA,95765,675000,4,4.5,West Rocklin/Zip 95765,2958,6050,2018,3,,84,Active,,,MetroList,19042886,N,Y,38.8352774,-121.2729861
+MLS Listing,,Single Family Residential,816 Pleasant St,Roseville,CA,95678,425000,2,1,Central Roseville/zip 95678,1287,13926,1954,3,,,Active,,,MetroList,19042858,N,Y,38.7540635,-121.2977496
+MLS Listing,,Condo/Co-op,461 Waller St,San Francisco,CA,94117,1350000,2,2,Hayes Valley,,,,3,,,Active,,,San Francisco MLS,486449,N,Y,37.7708796,-122.4311835
+MLS Listing,,Condo/Co-op,1863 Northshore Dr,Richmond,CA,94804,749000,3,3.5,Richmond,2053,2500,2006,3,365,315,Active,,,Bridge MLS,40871076,N,Y,37.916662,-122.353805
+MLS Listing,,Condo/Co-op,616 Mente Linda Loop,MILPITAS,CA,95035,899888,2,2,MILPITAS,1300,435,2007,3,692,301,Active,,,MLSListings,ML81757447,N,Y,37.423132,-121.907841
+MLS Listing,,Townhouse,9 Hansen Ct,Moraga,CA,94556,969000,3,2.5,Carroll Ranch,2095,3328,1984,3,463,330,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40871041,N,Y,37.8636959,-122.125879
+MLS Listing,,Single Family Residential,8227 Cripple Oak Ct,Citrus Heights,CA,95610,444900,4,3,Citrus Heights,2322,7405,1978,3,,,Active,,,MetroList,19043314,N,Y,38.7160304,-121.2535382
+MLS Listing,,Single Family Residential,1081 Camellia Dr,Alameda,CA,94502,930000,3,2,Bay Farm Island,1623,6800,1966,3,573,,Active,June-29-2019 02:00 PM,June-29-2019 04:00 PM,Bridge MLS,40871018,N,Y,37.7325704,-122.2399744
+MLS Listing,,Single Family Residential,5845 Green Glen Way,Sacramento,CA,95842,309900,3,2,Sacramento Foothill Farms,1240,6098,1963,3,,,Active,,,MetroList,19043342,N,Y,38.674183,-121.3560171
+MLS Listing,,Single Family Residential,6601 Dawson Way,Sacramento,CA,95823,279000,3,2,Sacramento Franklin/Freeport/Vicinity,1319,6098,1959,3,,,Active,,,MetroList,19042184,N,Y,38.5066031,-121.4404286
+MLS Listing,,Single Family Residential,9420 Secretariat Ln,Elk Grove,CA,95624,899000,3,2.5,Elk Grove,3252,38982,2004,3,,133,Active,,,MetroList,19041168,N,Y,38.4185126,-121.3179275
+MLS Listing,,Single Family Residential,4960 Yvonne Way,Sacramento,CA,95823,239900,3,2.5,Sacramento Franklin/Freeport/Vicinity,1663,4792,1986,3,,,Active,,,MetroList,19042766,N,Y,38.4628221,-121.4416634
+MLS Listing,,Single Family Residential,2340 Mcgregor Dr,Rancho Cordova,CA,95670,295900,3,2,Ranch Cordova/Gold River,1097,7850,1962,3,,,Active,,,MetroList,19042745,N,Y,38.6095955,-121.2881845
+MLS Listing,,Single Family Residential,1190 Nottaway Dr,South Lake Tahoe,CA,96150,339000,3,1.5,Pioneer Trail,1120,10019,1977,3,303,,Active,,,STARMLS,131062,N,Y,38.8834883,-119.9924125
+MLS Listing,,Condo/Co-op,1688 Pine St Unit E606,San Francisco,CA,94109,1398000,2,2,Van Ness/Civic Center,993,,2016,3,1408,758,Active,June-25-2019 09:00 AM,June-25-2019 10:30 AM,San Francisco MLS,486454,N,Y,37.789553,-122.4232788
+MLS Listing,,Townhouse,1036 Clubhouse Dr,Hayward,CA,94541,549800,3,2.5,Skywest,1332,1129,1973,3,413,415,Active,,,Bridge MLS,40870986,N,Y,37.6677918,-122.125823
+MLS Listing,,Condo/Co-op,3222 Glendora Dr #202,SAN MATEO,CA,94403,598000,1,1,SAN MATEO,807,26554,1973,3,741,482,Active,June-25-2019 10:00 AM,June-25-2019 01:00 PM,MLSListings,ML81757381,N,Y,37.532082,-122.3268381
+MLS Listing,,Townhouse,1303 Victoria Ter,SUNNYVALE,CA,94087,1099000,2,2.5,SUNNYVALE,1548,1193,1987,3,710,300,Active,June-29-2019 01:00 PM,June-29-2019 04:00 PM,MLSListings,ML81757380,N,Y,37.351796,-122.034251
+MLS Listing,,Single Family Residential,215 Montclair Rd,LOS GATOS,CA,95032,2499000,4,2.5,LOS GATOS,2424,11404,1966,3,1031,,Active,,,MLSListings,ML81757379,N,Y,37.2545411,-121.989987
+MLS Listing,,Single Family Residential,8449 Misty Oak Way,Antelope,CA,95843,414900,4,2.5,Sacramento Antelope,1893,6817,1990,3,,,Active,,,MetroList,19043352,N,Y,38.72364,-121.356324
+MLS Listing,,Single Family Residential,2984 Alves Ranch Rd,Pittsburg,CA,94531,730000,4,3.5,San Marco,3088,8184,2016,4,236,,Active,,,Bridge MLS,40870957,N,Y,38.00976,-121.959198
+MLS Listing,,Single Family Residential,10537 Rubicon Ave,Stockton,CA,95219,439999,4,3,far Northwest Stockton,2668,7388,2003,4,,70,Active,June-30-2019 02:00 PM,June-30-2019 04:00 PM,MetroList,19042706,N,Y,38.0527429,-121.3879089
+MLS Listing,,Multi-Family (2-4 Unit),3460-3462 Moorpark Ave,SAN JOSE,CA,95117,1225000,4,,SAN JOSE,2020,8002,1956,4,606,,Active,,,MLSListings,ML81757308,N,Y,37.3158783,-121.9590674
+MLS Listing,,Single Family Residential,12206 Toluca Dr,San Ramon,CA,94583,1215000,4,2,Ranch Ramon,2112,10000,1978,4,575,,Active,,,Bridge MLS,40870852,N,Y,37.7530795,-121.9414004
+MLS Listing,,Single Family Residential,6450 Ramblewood Pl,Livermore,CA,94551,1055500,4,3,Livermore,2754,7882,2012,4,383,,Active,,,Bridge MLS,40870840,N,Y,37.7188524,-121.7182545
+MLS Listing,,Single Family Residential,3334 69th Ave,Oakland,CA,94577,698000,3,2,Millmont,1293,3600,1928,4,540,,Active,,,Bridge MLS,40870756,N,Y,37.7710575,-122.1745385
+MLS Listing,,Single Family Residential,8129 Arroyo Vista Dr,Sacramento,CA,95823,369000,3,2,Sacramento Franklin/Freeport/Vicinity,1660,11975,1992,4,,106,Active,,,MetroList,19042780,N,Y,38.4629894,-121.4185602
+MLS Listing,,Single Family Residential,6589 Simson St,Oakland,CA,94605,798000,3,3,Oakland,1724,13650,1947,4,463,,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,San Francisco MLS,486383,N,Y,37.7754192,-122.1735628
+MLS Listing,,Condo/Co-op,3304 Red Cedar Ter,Fremont,CA,94536,498000,2,2,Fremont Center,840,,1986,5,593,334,Active,,,Bridge MLS,40870693,N,Y,37.561982,-122.003385
+MLS Listing,,Condo/Co-op,653 Modern Ice Dr,SAN JOSE,CA,95112,799999,3,2,SAN JOSE,1224,1043,2008,5,654,222,Active,,,MLSListings,ML81757123,N,Y,37.36133,-121.890808
+MLS Listing,,Single Family Residential,119 Little Ranch Cir,Oakley,CA,94561,678000,4,3,Oakley,2890,8668,2007,5,235,,Active,,,Bridge MLS,40870635,N,Y,37.9744158,-121.7041817
+MLS Listing,,Single Family Residential,104 Hinkle Ct,Folsom,CA,95630,969000,5,3.5,Folsom & Vicinity,4300,24110,2000,6,,8,Active,,,MetroList,19042393,N,Y,38.7071208,-121.183432
+MLS Listing,,Single Family Residential,10 Heritage Ct,Walnut Creek,CA,94597,979000,3,2,Buena Vista,1304,15000,1972,6,751,,Active,,,Bridge MLS,40870518,N,Y,37.9133285,-122.0749783
+MLS Listing,,Single Family Residential,469 E Saint John St,SAN JOSE,CA,95112,950000,5,2,SAN JOSE,1892,6428,1914,6,502,,Active,,,MLSListings,ML81756913,N,Y,37.3426089,-121.8816763
+MLS Listing,,Single Family Residential,4723 Hunter Peak Ct,Antioch,CA,94531,599000,4,3,Diamond Ridge,2448,7070,1991,6,245,,Active,,,Bridge MLS,40870506,N,Y,37.973331,-121.800852
+MLS Listing,,Single Family Residential,73 Corte Roble,Novato,CA,94949,1275000,4,4,Novato,2372,8499,1958,8,538,,Active,,,BAREIS,21915274,N,Y,38.0665236,-122.5514376
+MLS Listing,,Single Family Residential,436 S Cascade Way,Madera,CA,93636,389900,4,2,Madera,2000,8700,2018,8,195,125,Active,,,FRESNOMLS,525139,N,Y,36.91884,-119.800011
+MLS Listing,,Single Family Residential,5067 Congress Ave,Oakland,CA,94601,749000,4,2,Fairfax,1633,3250,1924,9,459,,Active,,,Bridge MLS,40870349,N,Y,37.7753528,-122.202163
+MLS Listing,,Single Family Residential,68 Springhaven Ct,San Ramon,CA,94583,909000,3,2.5,New Castle,1720,3658,1989,9,528,162,Active,,,Bridge MLS,40870301,N,Y,37.7604453,-121.9479998
+MLS Listing,,Single Family Residential,2901 W Creek Ln,Santa Rosa,CA,95407,605000,4,3,Santa Rosa-Southwest,2193,5698,2001,9,276,25,Active,June-30-2019 02:00 PM,June-30-2019 04:00 PM,BAREIS,21914963,N,Y,38.4136456,-122.7489487
+MLS Listing,,Condo/Co-op,1305 Webster St Unit C304,Alameda,CA,94501,399000,1,1,Park Webster,701,46861,1970,9,569,465,Active,,,Bridge MLS,40870190,N,Y,37.7705318,-122.2765734
+MLS Listing,,Condo/Co-op,2541 California St #8,San Francisco,CA,94115,1398000,3,2,Pacific Heights,,,1900,9,,500,Active,,,San Francisco MLS,486189,N,Y,37.788353,-122.4362179
+MLS Listing,,Single Family Residential,4059 Bridge St,Fair Oaks,CA,95628,910000,4,4,Fair Oaks,3361,8494,2016,9,,,Active,,,MetroList,19040725,N,Y,38.639729,-121.2682921
+MLS Listing,,Single Family Residential,14 Cypress Ct,MILLBRAE,CA,94030,1498000,3,2,MILLBRAE,1710,5850,1977,9,876,,Active,,,MLSListings,ML81756581,N,Y,37.606264,-122.4031672
+MLS Listing,,Single Family Residential,2298 Placerwood Trl,Reno,NV,89523-4853,599900,4,3,Reno-West Suburban,2547,16552,2004,9,236,158,Active,,,NNRMLS,190008895,N,Y,39.5379079,-119.9244963
+MLS Listing,,Single Family Residential,5101 Watkings Way,Antioch,CA,94531,708000,7,4.5,Diamond Peak,3888,11325,2000,9,182,,Active,,,Bridge MLS,40870161,N,Y,37.9602272,-121.8071038
+MLS Listing,,Single Family Residential,4076 Trenton Ave,Clovis,CA,93619,279900,2,2.5,Clovis,1300,2484,2009,9,215,143,Active,,,FRESNOMLS,525039,N,Y,36.863579,-119.6346359
+MLS Listing,,Single Family Residential,1324 School St,Folsom,CA,95630,369000,3,1,Folsom & Vicinity,1001,6930,1959,9,,,Active,,,MetroList,19041480,N,Y,38.6726183,-121.151856
+MLS Listing,,Condo/Co-op,374 Mill Rd,Martinez,CA,94553,399000,2,2,County Village,911,,1983,10,438,400,Active,,,Bridge MLS,40870100,N,Y,37.9978094,-122.1108924
+MLS Listing,,Single Family Residential,208 County Down Ct,Roseville,CA,95678,795000,5,4.5,Central Roseville/zip 95678,4126,9056,1999,10,,65,Active,,,MetroList,19041678,N,Y,38.7715703,-121.2818148
+MLS Listing,,Single Family Residential,4112 Valiant St,Carmichael,CA,95608,499900,4,3.5,Carmichael,2350,10019,1962,10,,,Active,,,MetroList,19041680,N,Y,38.6388987,-121.3107755
+MLS Listing,,Single Family Residential,609 Barranca Ct,El Dorado Hills,CA,95762,689500,5,3,El Dorado Hills,3234,11326,2003,10,,,Active,,,MetroList,19041682,N,Y,38.6452945,-121.0789675
+MLS Listing,,Condo/Co-op,7041 Banff Springs Ct,SAN JOSE,CA,95139,749000,4,3,SAN JOSE,1656,2112,1971,10,452,387,Active,,,MLSListings,ML81756505,N,Y,37.226069,-121.776938
+MLS Listing,,Single Family Residential,356 Trenton Cir,Pleasanton,CA,94566,915000,3,2,Pleasanton,1075,3600,1994,10,851,105,Active,,,Bridge MLS,40870073,N,Y,37.6676627,-121.8669793
+MLS Listing,,Single Family Residential,493 Cobalt Dr,HOLLISTER,CA,95023,689500,5,3,HOLLISTER,2478,5026,2018,10,278,,Active,,,MLSListings,ML81756478,N,Y,36.829472,-121.394189
+MLS Listing,,Single Family Residential,7139 Marne Pl,Newark,CA,94560,949000,4,2,Newark,1460,7320,1961,10,650,,Active,,,Bridge MLS,40870047,N,Y,37.5379672,-122.0490972
+MLS Listing,,Single Family Residential,2168 Forino Dr,Dublin,CA,94568,1475000,5,4.5,Dublin Ranch,3607,5900,2012,10,409,85,Active,,,Bridge MLS,40870008,N,Y,37.7208357,-121.8436735
+MLS Listing,,Single Family Residential,9017 Meadowsweet Way,Elk Grove,CA,95624,399000,3,2,Elk Grove,1403,6896,1979,10,,,Active,,,MetroList,19041473,N,Y,38.3950389,-121.3668273
+MLS Listing,,Single Family Residential,3032 Walcott Way,Roseville,CA,95661,514900,3,2,Roseville-East/Zip 95661,1458,6294,2016,10,,,Active,,,MetroList,19040804,N,Y,38.7537457,-121.2279156
+MLS Listing,,Condo/Co-op,104 Hartnell Pl,Sacramento,CA,95825,439900,3,2.5,Sacto Arden/Arcade Creek/Vicinity,1428,1742,1972,10,,257,Active,,,MetroList,19041121,N,Y,38.5649802,-121.4170795
+MLS Listing,,Single Family Residential,3061 Northrop Ave,Sacramento,CA,95864,799950,4,3,Sacramento Arden/Arcade Creek/Vicinity,2966,20909,1950,10,,,Active,,,MetroList,19040458,N,Y,38.5816886,-121.3929107
+MLS Listing,,Condo/Co-op,639 Staley Ave,Hayward,CA,94541,609888,2,2.5,Hayward,1272,,2012,10,479,211,Active,,,Bridge MLS,40869920,N,Y,37.6629647,-122.0912757
+MLS Listing,,Single Family Residential,35 Mandrake Ct,Oakley,CA,94561,495000,3,2,Oakley,1490,5100,2011,10,332,,Active,,,Bridge MLS,40869912,N,Y,37.9689258,-121.7269155
+MLS Listing,,Townhouse,1496 Calle Enrique,Pleasanton,CA,94566,759000,3,2,Park Villas,1224,1722,1971,11,620,444,Active,,,Bridge MLS,40869884,N,Y,37.668142,-121.88745
+MLS Listing,,Single Family Residential,2625 Clarita Dr,Pittsburg,CA,94565,620000,4,2.5,San Marco,2391,3060,2017,11,259,,Active,,,Bridge MLS,40869844,N,Y,38.0204452,-121.9648411
+MLS Listing,,Single Family Residential,2017 Camino Ramon Pl,Danville,CA,94526-3070,1299000,5,3,Greentree,2591,10000,1990,11,501,201,Active,,,Bridge MLS,40869830,N,Y,37.7845875,-121.9716168
+MLS Listing,,Townhouse,1037 Mangrove Ln,Alameda,CA,94502,699000,3,2.5,Garden Isle,1642,1738,1975,11,426,499,Active,,,Bridge MLS,40869791,N,Y,37.7316413,-122.2342841
+MLS Listing,,Single Family Residential,4408 Reveil Pl,Sacramento,CA,95827,549900,4,3,Sacramento Rosemont/College Greens/Mayhew,3535,6625,2006,11,,90,Active,,,MetroList,19040449,N,Y,38.5398915,-121.341731
+MLS Listing,,Condo/Co-op,1407 Foothill Meadows Ct,SAN JOSE,CA,95131,705000,2,1,SAN JOSE,896,957,1984,11,787,414,Active,,,MLSListings,ML81756240,N,Y,37.3824479,-121.882226
+MLS Listing,,Single Family Residential,211 Alexander Ave,REDWOOD CITY,CA,94061,1088000,2,1,REDWOOD CITY,720,2550,1954,11,1511,,Active,,,MLSListings,ML81756225,N,Y,37.457501,-122.2242065
+MLS Listing,,Condo/Co-op,4891 Shattuck Ave,Oakland,CA,94609,929000,3,2,Temescal,1591,,2009,11,584,397,Active,,,Bridge MLS,40869722,N,Y,37.8358713,-122.2642968
+MLS Listing,,Single Family Residential,9632 Eagle Hills Way,GILROY,CA,95020,939899,6,2.5,GILROY,2464,6038,1997,12,381,,Active,,,MLSListings,ML81756161,N,Y,37.031552,-121.6069826
+MLS Listing,,Townhouse,38618 Royal Ann Cmn,Fremont,CA,94536,675000,3,1.5,Fremont,1180,1020,1971,12,572,315,Active,,,Bridge MLS,40869675,N,Y,37.566455,-121.970963
+MLS Listing,,Townhouse,43859 Olazaba Ter,Fremont,CA,94539,1020690,3,2.5,Fremont,1502,1000,1986,12,680,308,Active,,,Bridge MLS,40869587,N,Y,37.524509,-121.918775
+MLS Listing,,Single Family Residential,2064 Nina Ct,Hayward,CA,94541,858800,4,3,Hayward Hills,2214,8700,1964,12,388,,Active,,,Bridge MLS,40869586,N,Y,37.6696316,-122.0586424
+MLS Listing,,Single Family Residential,3146 Gateway Dr,Cameron Park,CA,95682,449000,4,2.5,Greater Cameron Park,2096,10890,1979,13,,,Active,,,MetroList,19040439,N,Y,38.6930994,-121.00504
+MLS Listing,,Single Family Residential,2862 Via Dominguez,Walnut Creek,CA,94597,899999,4,2,Palos Verde,1598,7050,1961,13,563,,Active,,,Bridge MLS,40869519,N,Y,37.9257192,-122.0840774
+MLS Listing,,Single Family Residential,38567 Poe Ter,Fremont,CA,94536,898888,2,2,Washington,1107,3142,1999,13,812,115,Active,,,Bridge MLS,40869498,N,Y,37.5493694,-121.9943847
+MLS Listing,,Single Family Residential,2907 Cambridge Rd,Cameron Park,CA,95682,499000,4,2.5,Greater Cameron Park,2213,12197,1986,13,,,Active,,,MetroList,19040392,N,Y,38.6879938,-120.9999322
+MLS Listing,,Single Family Residential,1367 El Dorado Dr,Livermore,CA,94550,949000,4,3,Livermore,2302,6271,1959,13,412,,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40869460,N,Y,37.6658912,-121.7815379
+MLS Listing,,Single Family Residential,11920 New Ave,GILROY,CA,95020,1174888,3,2,GILROY,1835,44457,1973,16,640,,Active,,,MLSListings,ML81755462,N,Y,37.0798509,-121.5617744
+MLS Listing,,Multi-Family (2-4 Unit),6309 Outlook Ave,Oakland,CA,94605,899000,6,3.5,Alameda County,2552,4859,1952,16,352,,Active,June-24-2019 10:00 AM,June-24-2019 11:00 AM,BAREIS,21914568,N,Y,37.7764406,-122.177554
+MLS Listing,,Single Family Residential,921 33Rd St,Oakland,CA,94608,599000,2,1,West Oakland,1103,2610,1909,16,543,,Active,,,Bridge MLS,40869218,N,Y,37.8239673,-122.2763547
+MLS Listing,,Single Family Residential,2248 Winchester Loop,Discovery Bay,CA,94505,625000,5,3,Lakeshore,3394,6500,2003,16,184,183,Active,,,Bridge MLS,40869212,N,Y,37.9142001,-121.6203544
+MLS Listing,,Single Family Residential,8325 Scrub Oak Way,Antelope,CA,95843,359900,3,2.5,Sacramento Antelope,1959,5044,1991,16,,,Active,,,MetroList,19039605,N,Y,38.7208108,-121.3709367
+MLS Listing,,Single Family Residential,1348 San Tomas Aquino Rd,SAN JOSE,CA,95130,1249000,3,2,SAN JOSE,1766,10466,1949,16,707,,Active,,,MLSListings,ML81755589,N,Y,37.2997571,-121.9763929
+MLS Listing,,Single Family Residential,1492 N Dara Ave,Clovis,CA,93619,275000,3,2.5,Clovis,1252,2812,2011,16,220,112,Active,,,FRESNOMLS,524599,N,Y,36.8574396,-119.6416537
+MLS Listing,,Single Family Residential,10212 Creek Trail Cir,Stockton,CA,95209,380000,4,2,far Northwest Stockton,1824,5998,1997,16,,7,Active,,,MetroList,19039078,N,Y,38.0463168,-121.3422124
+MLS Listing,,Single Family Residential,7807 Creation,Sparks,NV,89436-5442,489000,4,3,Spanish Springs-South,2387,15245,2015,16,205,57,Active,,,NNRMLS,190008422,N,Y,39.6308271,-119.6759455
+MLS Listing,,Single Family Residential,1229 Jacobs Way,Carson City,NV,89701-7543,299900,3,2,Carson SE Central,1237,6098,2000,16,242,,Active,,,NNRMLS,190008421,N,Y,39.1549399,-119.7576464
+MLS Listing,,Condo/Co-op,769 Ovation Ct,SAN JOSE,CA,95134,798888,2,2,SAN JOSE,925,1283,1992,17,864,333,Active,,,MLSListings,ML81755503,N,Y,37.4017709,-121.919358
+MLS Listing,,Single Family Residential,3853 Stratford Ct,Pleasanton,CA,94588,1195000,4,2.5,Pleasanton Mdws,2150,8416,1985,17,556,31,Active,,,Bridge MLS,40868966,N,Y,37.6983036,-121.8682912
+MLS Listing,,Single Family Residential,606 Park Rd,REDWOOD CITY,CA,94062,1998000,4,2.5,REDWOOD CITY,2660,6600,1987,17,751,,Active,,,MLSListings,ML81755390,N,Y,37.46647,-122.267096
+MLS Listing,,Single Family Residential,325 Alsace Ct,Roseville,CA,95747,599000,4,3,West Roseville/zip 95747,2606,7802,2013,17,,,Active,,,MetroList,19038762,N,Y,38.8079869,-121.3456973
+MLS Listing,,Single Family Residential,1736 Sevilla Dr,Roseville,CA,95747,479900,4,3,West Roseville/zip 95747,1965,4770,2006,17,,,Active,,,MetroList,19031101,N,Y,38.807595,-121.3450322
+MLS Listing,,Single Family Residential,4540 Ascension St,Rocklin,CA,95677,574900,4,2.5,East Rocklin/Zip 95677,2254,14305,1976,17,,,Active,,,MetroList,19039342,N,Y,38.8006029,-121.2471889
+MLS Listing,,Single Family Residential,305 Augustine Pl,Pleasanton,CA,94566,1199000,4,2.5,Downtown,2052,3340,2016,17,584,,Active,,,Bridge MLS,40868895,N,Y,37.6594366,-121.8798457
+MLS Listing,,Single Family Residential,1103 Ventura Dr,Pittsburg,CA,94565,535000,4,2,Pittsburg,1700,8667,1968,17,315,,Active,,,Bridge MLS,40868893,N,Y,37.9992907,-121.8774075
+MLS Listing,,Single Family Residential,2541 Allen Cir,Woodland,CA,95776,429900,3,2.5,Springlake,2309,3485,2006,17,,,Active,,,MetroList,19038994,N,Y,38.6544525,-121.7341065
+MLS Listing,,Single Family Residential,3085 Yucca Ave,SAN JOSE,CA,95124,975000,4,2,SAN JOSE,1248,5001,1953,18,781,,Active,,,MLSListings,ML81755279,N,Y,37.2691567,-121.907686
+MLS Listing,,Single Family Residential,8128 Lichen Dr,Citrus Heights,CA,95621,294000,3,1,Citrus Heights,1081,6534,1960,18,,,Active,,,MetroList,19034204,N,Y,38.7140376,-121.3080736
+MLS Listing,,Single Family Residential,3264 Woody Ln,SAN JOSE,CA,95132,1050000,4,2,SAN JOSE,1585,6705,1964,18,662,,Active,,,MLSListings,ML81755231,N,Y,37.4130459,-121.8635327
+MLS Listing,,Multi-Family (2-4 Unit),194 27th St,San Francisco,CA,94110,1795000,4,2,Noe Valley,1980,1842,1900,18,907,,Active,,,San Francisco MLS,485852,N,Y,37.7472142,-122.4244344
+MLS Listing,,Townhouse,181 Hudson Pl,SAN JOSE,CA,95123,859990,3,3.5,SAN JOSE,1739,543,2017,18,495,199,Active,,,MLSListings,ML81755223,N,Y,37.251532,-121.797476
+MLS Listing,,Townhouse,33 Esfahan Dr,SAN JOSE,CA,95111,850000,3,2.5,SAN JOSE,1799,1425,2008,18,472,228,Active,,,MLSListings,ML81755207,N,Y,37.293179,-121.852599
+MLS Listing,,Single Family Residential,5403 Quane Rd,Rocklin,CA,95765,565000,5,3,West Rocklin/Zip 95765,3271,6238,1997,18,,,Active,,,MetroList,19034205,N,Y,38.8193268,-121.261623
+MLS Listing,,Single Family Residential,779 Wisconsin St,San Francisco,CA,94107,3698000,4,3.5,Potrero Hill,,2495,,18,,,Active,,,San Francisco MLS,485807,N,Y,37.757661,-122.3987752
+MLS Listing,,Single Family Residential,2381 Norwood Rd,Livermore,CA,94550,930000,3,2,Whispering Pines,1728,10000,1972,18,538,,Active,,,Bridge MLS,40868704,N,Y,37.6521402,-121.7825616
+MLS Listing,,Single Family Residential,377 Borica Dr,Danville,CA,94526,1370000,4,3,Shadow Hills,2423,14833,1976,18,565,40,Active,,,Bridge MLS,40868698,N,Y,37.8015517,-121.9619307
+MLS Listing,,Single Family Residential,11129 Walmort Rd,Wilton,CA,95693,1200000,7,4.5,Wilton,7117,257440,1988,18,,,Active,,,MetroList,19036870,N,Y,38.38249,-121.268226
+MLS Listing,,Vacant Land,6417 North Lake Blvd,Tahoe Vista,CA,96148,699000,,,North Lake Subd,,43560,,19,,,Active,,,TSMLS,20191288,N,Y,39.239257,-120.060512
+MLS Listing,,Single Family Residential,976 Foxworthy Ave,SAN JOSE,CA,95125,999999,4,3,SAN JOSE,1712,1487,2003,19,584,95,Active,,,MLSListings,ML81755108,N,Y,37.2774224,-121.8770184
+MLS Listing,,Single Family Residential,3549 Tidewater Pl,Fairfield,CA,94533,478000,3,2.5,Fairfield 1,1751,2919,2002,19,273,175,Active,,,BAREIS,21914189,N,Y,38.2940562,-122.0240536
+MLS Listing,,Single Family Residential,1130 Paddington Cir,Galt,CA,95632,535000,3,3,Galt,2566,8276,2005,19,,,Active,,,MetroList,19038360,N,Y,38.2682155,-121.2848544
+MLS Listing,,Townhouse,5825 Dolbeer Way,Newark,CA,94560,968000,4,3.5,Newark,1902,,2016,19,509,240,Active,,,Bridge MLS,40868565,N,Y,37.52051676,-121.9941198
+MLS Listing,,Condo/Co-op,338 Spear St Unit 21G,San Francisco,CA,94105,1179000,1,1,South Beach,807,,2009,19,1461,904,Active,,,San Francisco MLS,485795,N,Y,37.789557,-122.390595
+MLS Listing,,Single Family Residential,7262 7th Ave,Tahoma,CA,96142,569000,3,2,Tahoe Cedars,1461,,1961,20,389,,Active,,,TSMLS,20191271,N,Y,39.0582932,-120.1314709
+MLS Listing,,Single Family Residential,110 Cora Ct,Walnut Creek,CA,94597,1500000,4,3,Walnut Creek,2923,21780,1946,20,513,,Active,,,Bridge MLS,40868483,N,Y,37.921659,-122.0506733
+MLS Listing,,Single Family Residential,4785 Noree Ct,Castro Valley,CA,94546,988888,4,2.5,Castro Valley,2188,5018,1968,20,452,,Active,,,Bridge MLS,40868467,N,Y,37.701003,-122.056966
+MLS Listing,,Condo/Co-op,855 Folsom St #510,San Francisco,CA,94107,1180000,1,1.5,San Francisco County,1030,55687,2001,23,1146,606,Active,,,BAREIS,21913409,N,Y,37.7807672,-122.4021418
+MLS Listing,,Single Family Residential,6323 Girvin Dr,Oakland,CA,94611,999000,4,3,Alameda County,1760,,1961,23,568,,Active,,,BAREIS,21913428,N,Y,37.829388,-122.196244
+MLS Listing,,Single Family Residential,2865 Winesap Cir,Placerville,CA,95667,419900,4,3,Greater Placerville,1881,5881,2018,23,,,Active,,,MetroList,19037410,N,Y,38.729673,-120.84731
+MLS Listing,,Single Family Residential,28 Garner Dr,Novato,CA,94947,1194000,6,3,Novato,3364,31990,1975,23,355,,Active,,,BAREIS,21913715,N,Y,38.0877648,-122.578831
+MLS Listing,,Condo/Co-op,318 Park Place Dr,Petaluma,CA,94954,524000,3,2.5,Petaluma East,1503,1045,1983,23,349,334,Active,,,BAREIS,21913714,N,Y,38.257302,-122.632213
+MLS Listing,,Single Family Residential,2516 San Fernando Way,Sacramento,CA,95818,399900,3,2,Sacramento Land Park/Curtis Park,976,3049,1923,23,,,Active,,,MetroList,19037241,N,Y,38.5566795,-121.4762472
+MLS Listing,,Condo/Co-op,1305 Webster St Unit C200,Alameda,CA,94501,499000,2,1,Park Webster,843,46861,1970,23,592,495,Active,,,Bridge MLS,40868055,N,Y,37.7705318,-122.2765734
+MLS Listing,,Single Family Residential,7655 Madeline Way,Citrus Heights,CA,95610,539000,3,2,Citrus Heights,2170,10890,1978,24,,,Active,,,MetroList,19034123,N,Y,38.6731701,-121.2819042
+MLS Listing,,Single Family Residential,7453 Kingsbury Pl,CUPERTINO,CA,95014,1999888,4,3,CUPERTINO,1790,7961,1963,24,1117,,Active,,,MLSListings,ML81754291,N,Y,37.3033838,-122.035688
+MLS Listing,,Single Family Residential,31 N Quebec St,SAN MATEO,CA,94401,1325000,3,2,SAN MATEO,1830,5000,1947,24,724,,Active,,,MLSListings,ML81754275,N,Y,37.5784099,-122.3132762
+MLS Listing,,Condo/Co-op,3909 Portola Cmn #3,Livermore,CA,94551,699888,4,3.5,Livermore,2056,,2015,24,340,216,Active,,,Bridge MLS,40867832,N,Y,37.6904876,-121.7544952
+MLS Listing,,Single Family Residential,2396 Stone View Dr,Sparks,NV,89436-4645,424900,4,3,Sparks-Suburban,1923,8276,1996,24,221,28,Active,,,NNRMLS,190007870,N,Y,39.580469,-119.6968674
+MLS Listing,,Single Family Residential,5524 Marconi Ave,Carmichael,CA,95608,675000,5,3.5,Carmichael,4212,21344,1951,24,,,Active,,,MetroList,19037001,N,Y,38.6168751,-121.335801
+MLS Listing,,Single Family Residential,5120 Glenwood Springs Way,Roseville,CA,95747,520000,3,2.5,West Roseville/zip 95747,2444,5493,2017,24,,,Active,,,MetroList,19037015,N,Y,38.7894693,-121.3880428
+MLS Listing,,Vacant Land,1688 Schillers Ct,Folsom,CA,95630,284000,,,Folsom & Vicinity,,17637,,24,,80,Active,,,MetroList,19036976,N,Y,38.660616,-121.117089
+MLS Listing,,Single Family Residential,4100 Euboea Island Ln,Sacramento,CA,95834,339500,2,2,North Sacramento/Natomas/Del Paso Heights,1510,4373,2016,24,,235,Active,,,MetroList,19036776,N,Y,38.653584,-121.5505364
+MLS Listing,,Single Family Residential,1024 Applewood Dr,San Ramon,CA,94582,829000,2,2.5,Gale Ranch,1265,2505,2013,25,655,96,Active,,,Bridge MLS,40867756,N,Y,37.7637662,-121.9117314
+MLS Listing,,Single Family Residential,2684 Woodfield Way,Roseville,CA,95747,559000,3,2.5,West Roseville/zip 95747,2586,6447,2009,25,,,Active,,,MetroList,19035369,N,Y,38.7821086,-121.3744207
+MLS Listing,,Single Family Residential,10100 Trail Dr,Reno,NV,89506,699000,5,3,Reno-North Valley,4539,75794,1959,25,154,,Active,,,NNRMLS,190007819,N,Y,39.6219037,-119.9071449
+MLS Listing,,Single Family Residential,5443 Hackney Ln,Richmond,CA,94803,739000,4,3,Richmond/San Pablo,2362,7625,1988,25,313,,Active,,,San Francisco MLS,485504,N,Y,37.9663582,-122.2533803
+MLS Listing,,Townhouse,1803 Queen Victoria Way,SAN JOSE,CA,95132,869900,4,2.5,SAN JOSE,1474,1055,1970,26,590,235,Active,,,MLSListings,ML81753865,N,Y,37.4127,-121.852216
+MLS Listing,,Condo/Co-op,7 Embarcadero #103,Oakland,CA,94607,359000,1,1,Jack London Sq,476,,1974,26,754,641,Active,,,Bridge MLS,40867464,N,Y,37.7908165,-122.2688617
+MLS Listing,,Single Family Residential,1015 Curtner Ave,SAN JOSE,CA,95125,1399000,4,2.5,SAN JOSE,2395,4376,2002,26,584,,Active,,,MLSListings,ML81753798,N,Y,37.2908829,-121.8854114
+MLS Listing,,Single Family Residential,23 Linden Dr,SANTA CLARA,CA,95050,1650000,3,3,SANTA CLARA,2520,7645,1948,30,655,,Active,,,MLSListings,ML81753556,N,Y,37.3382864,-121.935245
+MLS Listing,,Single Family Residential,4633 Menona Ct,Antioch,CA,94531,550000,4,2,Antioch,2171,8535,2002,30,253,,Active,,,Bridge MLS,40867187,N,Y,37.9829782,-121.7541633
+MLS Listing,,Single Family Residential,4070 22nd St,Sacramento,CA,95822,340000,3,1.5,Sacramento South Land Park/Greenhaven,1163,4792,1930,30,,,Active,,,MetroList,19034357,N,Y,38.5380207,-121.4888741
+MLS Listing,,Multi-Family (2-4 Unit),2603 E 27Th St,Oakland,CA,94601,850000,4,4,Oakland,2396,3538,1944,30,355,,Active,,,Bridge MLS,40867157,N,Y,37.7913333,-122.2225996
+MLS Listing,,Single Family Residential,2322 W Ashlan Ave,Fresno,CA,93705,225000,3,1.75,Fresno,1104,7560,1962,30,204,,Active,,,FRESNOMLS,523783,N,Y,36.7939284,-119.8380835
+MLS Listing,,Single Family Residential,6689 Peppergrass Dr,Sparks,NV,89436,348000,3,2.5,Spanish Springs-South,1801,2613,2018,31,193,100,Active,,,NNRMLS,190007569,N,Y,39.607114,-119.70382
+MLS Listing,,Townhouse,420 Crespi Pl,San Lorenzo,CA,94580,689000,4,3.5,San Lorenzo,1955,2142,2004,31,352,130,Active,,,Bridge MLS,40867029,N,Y,37.6903715,-122.1213091
+MLS Listing,,Single Family Residential,964 Dusty Stone Loop,Rocklin,CA,95765,984500,4,5,West Rocklin/Zip 95765,3681,8999,2018,31,,84,Active,,,MetroList,19034532,N,Y,38.8259724,-121.2697226
+MLS Listing,,Townhouse,1510 Pullman Way,Oakland,CA,94607,789900,2,2.5,West Oakland,1644,,2017,31,480,146,Active,,,Bridge MLS,40866963,N,Y,37.8149118,-122.2982168
+MLS Listing,,Single Family Residential,4400 Whitney Ave,Sacramento,CA,95821,412000,3,2,Sacramento Arden/Arcade Creek/Vicinity,1718,10019,1960,31,,,Active,,,MetroList,19027745,N,Y,38.6281504,-121.3615116
+MLS Listing,,Single Family Residential,3870 Sarava Ct,Reno,NV,89512,515000,4,2.5,Reno-North,2955,3920,2013,31,174,35,Active,,,NNRMLS,190007503,N,Y,39.5676728,-119.8123961
+MLS Listing,,Single Family Residential,2468 Allegro St,Livermore,CA,94550,1399000,5,4.5,Alden Lane,3362,9118,2004,32,416,,Active,,,Bridge MLS,40866719,N,Y,37.6534619,-121.7891482
+MLS Listing,,Condo/Co-op,3606 Whitworth Dr,Dublin,CA,94568,749000,3,3.5,Dublin Ranch Vlg,1634,,2004,33,458,225,Active,June-30-2019 01:00 PM,June-30-2019 04:00 PM,Bridge MLS,40866651,N,Y,37.708484,-121.868211
+MLS Listing,,Single Family Residential,2367 Geraldine Dr,Pleasant Hill,CA,94523,595900,3,1.5,Fair Oaks,1087,6750,1950,34,548,,Active,,,Bridge MLS,40866522,N,Y,37.9440647,-122.0552794
+MLS Listing,,Single Family Residential,44 Rowe Ranch Dr,Novato,CA,94949,959000,3,2.5,Novato,1850,4831,2005,37,518,114,Active,,,BAREIS,21912218,N,Y,38.0716653,-122.5520562
+MLS Listing,,Single Family Residential,1288 107th Ave,Oakland,CA,94603,550000,3,2,Alameda County,1200,,1928,37,458,,Active,,,BAREIS,21911652,N,Y,37.736719,-122.1682743
+MLS Listing,,Single Family Residential,429 Wellsley Ct,Folsom,CA,95630,588000,4,3,Folsom & Vicinity,2575,9509,1996,37,,,Active,,,MetroList,19033230,N,Y,38.6544098,-121.1772674
+MLS Listing,,Single Family Residential,4093 Cranford Cir,SAN JOSE,CA,95124,1298888,4,2,SAN JOSE,1868,6119,1977,37,695,,Active,,,MLSListings,ML81752496,N,Y,37.2544448,-121.9459112
+MLS Listing,,Single Family Residential,9075 Windsock Ave,Fair Oaks,CA,95628,799000,4,3.5,Fair Oaks,3706,16888,2000,37,,,Active,,,MetroList,19032319,N,Y,38.6606385,-121.2170529
+MLS Listing,,Single Family Residential,967 Gold Nugget Cir,Lincoln,CA,95648,549000,2,2,"Sun City Lincoln Hills, Subdivision property lines",1705,8032,2001,37,,122,Active,,,MetroList,19032380,N,Y,38.8763077,-121.2860166
+MLS Listing,,Single Family Residential,2526 Rosales St,Cameron Park,CA,95682,579000,5,3,Greater Cameron Park,2504,10498,1989,38,,,Active,,,MetroList,19033205,N,Y,38.66071102,-121.0104059
+MLS Listing,,Condo/Co-op,7032 San Altos Cir,Citrus Heights,CA,95621,294000,2,2,Citrus Heights,1120,2178,1985,38,,386,Active,,,MetroList,19032476,N,Y,38.6812031,-121.3003715
+MLS Listing,,Single Family Residential,1305 Hillwood Loop,Lincoln,CA,95648,535000,4,3,Lincoln Crossing,2633,8934,2006,38,,118,Active,,,MetroList,19030188,N,Y,38.8621597,-121.317891
+MLS Listing,,Condo/Co-op,4333 Red Maple Ct,SAN JOSE,CA,95138,1388000,4,3.5,SAN JOSE,2687,3803,2004,38,517,400,Active,,,MLSListings,ML81752279,N,Y,37.288279,-121.804439
+MLS Listing,,Condo/Co-op,6363 Christie Ave #2717,Emeryville,CA,94608,950000,2,1.5,Emeryville,1144,,1984,38,830,536,Active,,,San Francisco MLS,485016,N,Y,37.8412963,-122.2962575
+MLS Listing,,Single Family Residential,5286 S Montecito Dr,Concord,CA,94521,1080000,5,4.5,Montecito,3358,12756,2003,38,322,189,Active,,,Bridge MLS,40865924,N,Y,37.9448247,-121.9861222
+MLS Listing,,Condo/Co-op,1300 Windswept Cmn #6,Livermore,CA,94550,695500,3,3.5,Livermore,1778,,2017,39,391,277,Active,,,Bridge MLS,40865847,N,Y,37.699932,-121.7153268
+MLS Listing,,Condo/Co-op,236 Eastridge Dr,San Ramon,CA,94582,585000,2,2,San Ramon,1074,1058,1988,39,545,325,Active,,,Bridge MLS,40865807,N,Y,37.769249,-121.941636
+MLS Listing,,Condo/Co-op,107 Stone Pine Ln,San Ramon,CA,94583,520000,2,2,Stone Pine,988,,1993,39,526,306,Active,,,Bridge MLS,40865759,N,Y,37.778664,-121.983645
+MLS Listing,,Single Family Residential,47062 Lookout Mountain Dr,Coarsegold,CA,93614,375000,4,2,Coarsegold,1880,135907,2019,39,199,,Active,,,FRESNOMLS,523231,N,Y,37.25081175,-119.6905403
+MLS Listing,,Single Family Residential,2479 Carol Ann Dr,Tracy,CA,95377,539000,3,2.5,Tracy Central,2172,6277,1999,40,,,Active,,,MetroList,19032454,N,Y,37.7218898,-121.4617687
+MLS Listing,,Single Family Residential,1368 San Lucas Dr,Pittsburg,CA,94565,739000,5,3,Pittsburg,3442,5211,2001,41,215,,Active,,,Bridge MLS,40865492,N,Y,38.0143669,-121.9637747
+MLS Listing,,Vacant Land,11388 Lochard St,Oakland,CA,94605,300000,,,Alameda County,,37287,,43,,,Active,,,BAREIS,21911451,N,Y,37.7449086,-122.1289503
+MLS Listing,,Single Family Residential,10628 Pearmain St,Oakland,CA,94603,475000,3,2,Alameda County,1170,2500,2019,44,406,,Active,,,BAREIS,21911678,N,Y,37.733849,-122.175446
+MLS Listing,,Single Family Residential,2763 43rd St,Sacramento,CA,95817,519000,2,1,East Sacramento & Vicinity,1138,7405,1910,44,,,Active,,,MetroList,19031362,N,Y,38.5497668,-121.4566653
+MLS Listing,,Condo/Co-op,384 Mill Rd #31,Martinez,CA,94553,408000,2,1,County Village,893,,1983,44,457,400,Active,,,Bridge MLS,40865108,N,Y,37.9969875,-122.1108376
+MLS Listing,,Single Family Residential,784 Ida Ct,Incline Village,NV,89451-8533,1395000,4,3.5,Incline Village/N Tahoe,3050,8276,1979,44,457,,Active,,,NNRMLS,190006648,N,Y,39.267068,-119.9602091
+MLS Listing,,Single Family Residential,2634 Michelangelo,Sparks,NV,89434-9211,429900,4,3,Sparks-Foothills,2071,6534,2015,44,208,45,Active,,,NNRMLS,190006629,N,Y,39.561803,-119.6934843
+MLS Listing,,Single Family Residential,1124 Woodside Rd,Berkeley,CA,94708,989000,3,2,Berkeley/Albany,1345,7383,1955,44,735,19,Active,,,San Francisco MLS,484789,N,Y,37.8922352,-122.2527377
+MLS Listing,,Condo/Co-op,11073 Firethorne Dr,CUPERTINO,CA,95014,1428000,2,2.5,CUPERTINO,1385,1842,1977,45,1031,335,Active,,,MLSListings,ML81751105,N,Y,37.3387979,-122.0332014
+MLS Listing,,Single Family Residential,2621 Hoofbeat Ct,Rocklin,CA,95765,634500,4,3,West Rocklin/Zip 95765,2507,5301,2018,45,,84,Active,,,MetroList,19030489,N,Y,38.8283449,-121.2688767
+MLS Listing,,Single Family Residential,949 E Duane Ave,SUNNYVALE,CA,94085,1199888,3,2,SUNNYVALE,1050,5472,1954,46,1143,,Active,,,MLSListings,ML81751000,N,Y,37.3887026,-122.0021581
+MLS Listing,,Single Family Residential,5366 Proctor Rd,Castro Valley,CA,94546,1249000,3,2.5,Proctor,2840,11582,1977,46,440,,Active,,,Bridge MLS,40864769,N,Y,37.7205806,-122.0683421
+MLS Listing,,Townhouse,1818 Dwight Way,Berkeley,CA,94703,899888,2,1.5,Berkeley/Albany,1036,,1987,46,869,500,Active,,,San Francisco MLS,484691,N,Y,37.8630075,-122.2734084
+MLS Listing,,Single Family Residential,1160 California Ave,PALO ALTO,CA,94306,2688000,4,3,PALO ALTO,2224,5093,1936,46,1209,,Active,,,MLSListings,ML81750940,N,Y,37.4202681,-122.150145
+MLS Listing,,Single Family Residential,1330 Sugar Loaf Ave,Kyburz,CA,95720,335000,2,1,American River Canyon,1134,39117,1959,46,,,Active,,,MetroList,19030092,N,Y,38.771709,-120.311461
+MLS Listing,,Condo/Co-op,1445 Fruitdale Ave #325,SAN JOSE,CA,95128,774999,2,2,SAN JOSE,1193,1199,2009,47,650,401,Active,,,MLSListings,ML81750725,N,Y,37.3114417,-121.9161584
+MLS Listing,,Townhouse,1865 Midnight Cir,San Jose,CA,95133,979888,3,3,San Jose,1714,1999,2016,47,572,235,Active,,,Bridge MLS,40864469,N,Y,37.367486,-121.866287
+MLS Listing,,Single Family Residential,435 Monaco Ave,Union City,CA,94587,888000,4,2.5,Seven Hills,1836,9856,1965,48,484,,Active,,,Bridge MLS,40864402,N,Y,37.5973688,-122.0006923
+MLS Listing,,Single Family Residential,6992 Cinnamon Dr,Sparks,NV,89436,429000,5,2.5,Spanish Springs-South,2701,6969,1997,50,159,65,Active,,,NNRMLS,190006240,N,Y,39.619784,-119.6782048
+MLS Listing,,Single Family Residential,3354 Hazel St,Pollock Pines,CA,95726,329000,3,3,Pollock Pines,1656,19750,1974,51,,29,Active,,,MetroList,19029194,N,Y,38.754328,-120.5754191
+MLS Listing,,Single Family Residential,7099 Heatherwood,Reno,NV,89523,479900,4,2.5,Reno-Northwest Foothills,2279,12632,1998,51,211,95,Active,,,NNRMLS,190006128,N,Y,39.5435136,-119.905631
+MLS Listing,,Single Family Residential,1060 Robbers Ravine Rd,Colfax,CA,95713,549000,4,3,Colfax/Weimar,2817,74923,2004,51,,,Active,,,MetroList,19027788,N,Y,39.125794,-120.9193741
+MLS Listing,,Single Family Residential,377 St Claire Ter,Brentwood,CA,94513,540000,2,2,Summerset 4,1809,5381,2002,52,299,145,Active,,,Bridge MLS,40863946,N,Y,37.9186448,-121.72224
+MLS Listing,,Single Family Residential,4630 Seanpatrick Dr,Sacramento,CA,95838,349888,4,2,North Sacramento/Natomas/Del Paso Heights,1370,4530,2013,52,,,Active,,,MetroList,19028949,N,Y,38.6518889,-121.4495237
+MLS Listing,,Single Family Residential,8436 Milky Way,Orangevale,CA,95662,479000,4,3,Orangevale,2350,6534,1976,52,,,Active,,,MetroList,19027763,N,Y,38.6789741,-121.2467418
+MLS Listing,,Single Family Residential,312 Bannerman Ct,El Dorado Hills,CA,95762,699900,5,3,El Dorado Hills,2829,11718,2004,52,,198,Active,,,MetroList,19028047,N,Y,38.6804255,-121.0391316
+MLS Listing,,Single Family Residential,4241 Gailey Cir,Cameron Park,CA,95682,465000,3,2,Greater Cameron Park,1652,9858,1995,52,,,Active,,,MetroList,19028027,N,Y,38.6578737,-121.009851
+MLS Listing,,Single Family Residential,515 55th St,Sacramento,CA,95819,649900,3,2,East Sacramento & Vicinity,1400,4961,1947,52,,,Active,,,MetroList,19028273,N,Y,38.5712646,-121.4340049
+MLS Listing,,Single Family Residential,2475 Vineyard Dr,Auburn,CA,95603,1275000,4,3.5,Auburn,4064,91476,2006,52,,70,Active,,,MetroList,19026643,N,Y,38.9181944,-121.102518
+MLS Listing,,Condo/Co-op,6363 Christie Ave #611,Emeryville,CA,94608,600000,1,1,Emeryville,634,,1984,52,946,420,Active,,,San Francisco MLS,484393,N,Y,37.8412963,-122.2962575
+MLS Listing,,Single Family Residential,924 Wilson Ave,Richmond,CA,94805,478000,3,2,Richmond,1281,2500,1983,54,373,,Active,,,Bridge MLS,40863340,N,Y,37.9457125,-122.3307468
+MLS Listing,,Townhouse,38230 Redwood Ter,Fremont,CA,94536,725000,2,1.5,Fremont,1290,,1986,54,562,330,Active,,,Bridge MLS,40863264,N,Y,37.5674505,-121.9778886
+MLS Listing,,Single Family Residential,63 Via Floreado,Orinda,CA,94563,1598000,4,2.5,Orinda,3183,24000,1971,59,502,,Active,,,Bridge MLS,40862669,N,Y,37.8960657,-122.1751815
+MLS Listing,,Single Family Residential,5915 Sunset Ridge Ct,Reno,NV,89511-4363,1950000,4,4.5,Reno-South Suburban,5506,47480,2004,59,354,238,Active,,,NNRMLS,190005554,N,Y,39.4012524,-119.8343057
+MLS Listing,,Single Family Residential,2593 Creek Hollow Rd,Rocklin,CA,95765,735000,5,3.5,West Rocklin/Zip 95765,3235,8490,2018,59,,84,Active,,,MetroList,19026421,N,Y,38.8342656,-121.2736566
+MLS Listing,,Single Family Residential,314 Laurel Ln,Fernley,NV,89408-9746,294900,3,2,Fernley,1490,6098,2017,59,198,,Active,,,NNRMLS,190005534,N,Y,39.601328,-119.254082
+MLS Listing,,Single Family Residential,102 Marion Ln,Healdsburg,CA,95448,669000,1,1,Healdsburg,650,2614,1957,60,1029,,Active,,,BAREIS,21908524,N,Y,38.6128353,-122.8652524
+MLS Listing,,Condo/Co-op,230 Johnson St,Windsor,CA,95492,597500,3,3.5,Windsor,1764,706,2016,61,339,333,Active,,,BAREIS,21909054,N,Y,38.54606,-122.8132237
+MLS Listing,,Single Family Residential,16651 San Gabriel Ct,MORGAN HILL,CA,95037,884000,3,2.5,MORGAN HILL,2021,4455,2002,62,437,45,Active,,,MLSListings,ML81748130,N,Y,37.1236426,-121.6369332
+MLS Listing,,Single Family Residential,615 Kelmore St,MOSS BEACH,CA,94038,1199000,4,2.5,MOSS BEACH,2100,3700,1975,62,571,,Active,,,MLSListings,ML81748069,N,Y,37.5311022,-122.5141356
+MLS Listing,,Single Family Residential,19538 Windrift Way,Woodbridge,CA,95258,625000,4,2,Lodi/Woodbdg/Sunnyside Estates/Henderson Village,2565,8250,1999,65,,,Active,,,MetroList,19025303,N,Y,38.161817,-121.3176594
+MLS Listing,,Single Family Residential,65 Harriet Way,Tiburon,CA,94920,2150000,4,2,Tiburon,2155,9074,1953,65,998,,Active,,,BAREIS,21907857,N,Y,37.8991369,-122.4994144
+MLS Listing,,Single Family Residential,933 Main Ave,Sacramento,CA,95838,474500,4,3,North Sacramento/Natomas/Del Paso Heights,2520,65776,1948,65,,,Active,,,MetroList,19024557,N,Y,38.655096,-121.44486
+MLS Listing,,Single Family Residential,4485 McRoberts Dr,Mather,CA,95655,599000,6,4,Mather Air Force Base,4062,11269,2002,66,,78,Active,,,MetroList,19022151,N,Y,38.5389638,-121.2728743
+MLS Listing,,Single Family Residential,10545 Pippin St,Oakland,CA,94603,475000,3,2,Alameda County,1170,2500,2019,66,406,,Active,,,BAREIS,21908850,N,Y,37.734134,-122.175308
+MLS Listing,,Single Family Residential,4301 Peracca Rd,Santa Rosa,CA,95404,1295000,5,4,Santa Rosa-Southeast,3564,78408,1974,66,363,,Active,,,BAREIS,21908637,N,Y,38.3802993,-122.6383204
+MLS Listing,,Single Family Residential,8570 Elm Ave,Orangevale,CA,95662,635000,4,3,Orangevale,2437,23087,1978,66,,,Active,,,MetroList,19025015,N,Y,38.6928821,-121.2408746
+MLS Listing,,Single Family Residential,2001 Riddling Ct,Brentwood,CA,94513,1250000,4,3.5,Brentwood,3400,15281,2018,66,368,193,Active,,,Bridge MLS,40861548,N,Y,37.8978881,-121.7324795
+MLS Listing,,Multi-Family (2-4 Unit),22267 Peralta St,Hayward,CA,94541,949000,6,3,Hayward,2455,7350,1963,67,387,,Active,,,Bridge MLS,40861490,N,Y,37.673808,-122.091031
+MLS Listing,,Single Family Residential,1117 Glenn St,Santa Rosa,CA,95401,639000,3,2,Santa Rosa-Northeast,1203,5401,1922,73,531,,Active,,,BAREIS,21908146,N,Y,38.4463324,-122.720586
+MLS Listing,,Condo/Co-op,132 Talmont Cir,Roseville,CA,95678,376900,2,2.5,Central Roseville/zip 95678,1331,1059,2011,73,,130,Active,,,MetroList,19022488,N,Y,38.784597,-121.290949
+MLS Listing,,Single Family Residential,108 Friar Way,CAMPBELL,CA,95008,1199000,4,3,CAMPBELL,1680,4669,2007,73,714,,Active,,,MLSListings,ML81746692,N,Y,37.2758791,-121.9514216
+MLS Listing,,Single Family Residential,9012 Carneros St,Roseville,CA,95747,449000,2,2.5,West Roseville/zip 95747,1731,3372,2017,73,,95,Active,,,MetroList,19022193,N,Y,38.7429744,-121.3126994
+MLS Listing,,Single Family Residential,1570 Danbrook Dr,Sacramento,CA,95835,619900,3,2.5,North Sacramento/Natomas/Del Paso Heights,3052,14911,2002,73,,71,Active,,,MetroList,19022481,N,Y,38.6658566,-121.4957355
+MLS Listing,,Single Family Residential,1086 Granville Ln,Brentwood,CA,94513,669900,4,3.5,Brentwood,3671,10800,2006,73,182,,Active,,,Bridge MLS,40860566,N,Y,37.9662611,-121.716206
+MLS Listing,,Single Family Residential,193 Barroilhet Ave,SAN MATEO,CA,94401,2288000,3,2,SAN MATEO,2070,4465,1930,74,1105,,Active,,,MLSListings,ML81746524,N,Y,37.572337,-122.3458902
+MLS Listing,,Single Family Residential,19 Hillview Ct,Danville,CA,94506,1242500,4,3,Vista Tassajara,2568,12280,1990,74,484,146,Active,,,Bridge MLS,40860427,N,Y,37.7913943,-121.9060189
+MLS Listing,,Single Family Residential,107 Sunnyside Ave,Piedmont,CA,94611,1490000,3,2,Alameda County,1442,,1976,79,1033,,Active,,,BAREIS,21905999,N,Y,37.8228555,-122.2478076
+MLS Listing,,Single Family Residential,7875 Alpine Willow Ln,Sacramento,CA,95828,350000,4,2.5,Sacramento Florin & Vicinity,1807,2496,2016,79,,95,Active,,,MetroList,19019219,N,Y,38.4717514,-121.4054135
+MLS Listing,,Single Family Residential,1170 Glencourt Dr,Oakland,CA,94611,1050000,4,2,Montclair,2119,6045,1961,80,496,,Active,,,Bridge MLS,40859664,N,Y,37.8381608,-122.1955125
+MLS Listing,,Single Family Residential,8238 Bellsbrae Dr,Antelope,CA,95843,385000,3,2.5,Sacramento Antelope,1950,5663,1990,80,,,Active,,,MetroList,19020277,N,Y,38.7194244,-121.3614223
+MLS Listing,,Single Family Residential,6826 E Woodward Ave,Manteca,CA,95337,429999,3,2,Far South Manteca,2093,15246,1957,81,,,Active,,,MetroList,19018561,N,Y,37.7753757,-121.2242037
+MLS Listing,,Single Family Residential,3471 East Ave,Livermore,CA,94550,689000,3,2,Jensen Tract,1354,6149,1959,81,509,,Active,,,Bridge MLS,40859330,N,Y,37.6796954,-121.7574575
+MLS Listing,,Single Family Residential,83 El Vanada Rd,REDWOOD CITY,CA,94062,1388000,3,2,REDWOOD CITY,1580,10780,1936,86,878,,Active,,,MLSListings,ML81744730,N,Y,37.4759469,-122.2762218
+MLS Listing,,Single Family Residential,4021 Nugget Ln,Placerville,CA,95667,629900,4,3,Greater Placerville,2719,266979,1987,87,,,Active,,,MetroList,19018330,N,Y,38.713282,-120.760882
+MLS Listing,,Single Family Residential,4985 Bay View Cir,Stockton,CA,95219,489000,3,2.5,Far Northwest Stockton,2689,10376,2001,87,,158,Active,,,MetroList,19018766,N,Y,37.9814483,-121.3653086
+MLS Listing,,Condo/Co-op,222 Broadway #708,Oakland,CA,94607,1048000,2,2,Oakland,1286,,2009,87,815,949,Active,,,San Francisco MLS,482863,N,Y,37.7962472,-122.275671
+MLS Listing,,Condo/Co-op,688 Cassaday Ct,SAN JOSE,CA,95136,518888,2,2,SAN JOSE,912,3343,1988,89,569,460,Active,,,MLSListings,ML81744150,N,Y,37.2738943,-121.8588653
+MLS Listing,,Single Family Residential,9642 Hahn Way,Elk Grove,CA,95757,669000,5,3,Elk Grove,3707,8555,2006,93,,57,Active,,,MetroList,19017401,N,Y,38.4063827,-121.4436092
+MLS Listing,,Multi-Family (2-4 Unit),976 Acacia Ave,Clovis,CA,93612,419500,8,4,Clovis,2460,7000,1999,93,171,,Active,,,FRESNOMLS,519887,N,Y,36.8181775,-119.6924434
+MLS Listing,,Single Family Residential,5301 Weeping Willow Ct,Shingle Springs,CA,95682,1750000,4,4,Shingle Springs,5653,243936,2010,94,,60,Active,,,MetroList,19016329,N,Y,38.642104,-120.945491
+MLS Listing,,Multi-Family (2-4 Unit),19 E Saginaw Way,Fresno,CA,93704,397999,12,6,Fresno,3840,9900,1970,94,104,,Active,,,FRESNOMLS,519830,N,Y,36.7878079,-119.8125729
+MLS Listing,,Single Family Residential,14927 Lago Dr,Rancho Murieta,CA,95683,474000,3,2.5,Rancho Murieta,2068,2500,1988,95,,143,Active,,,MetroList,19016945,N,Y,38.5021176,-121.099138
+MLS Listing,,Single Family Residential,467 Milford Ct,Brentwood,CA,94513,580000,3,2.5,Brentwood,2100,5800,2016,101,276,,Active,June-29-2019 01:00 PM,June-29-2019 04:00 PM,Bridge MLS,40856841,N,Y,37.9487123,-121.6897731
+MLS Listing,,Single Family Residential,3 Station Inn Pl,Sacramento,CA,95835,465000,2,2,North Sacramento/Natomas/Del Paso Heights,1888,6787,2003,108,,262,Active,,,MetroList,19013442,N,Y,38.6805778,-121.5182165
+MLS Listing,,Condo/Co-op,546 Holly Hock Ct,SAN JOSE,CA,95117,860000,2,2.5,SAN JOSE,1117,579,1985,108,770,347,Active,,,MLSListings,ML81741650,N,Y,37.320858,-121.963598
+MLS Listing,,Single Family Residential,5377 Sunrise Meadows Ln,Oakley,CA,94561,425000,3,2.5,Vintage Parkway,1419,3000,1988,110,300,50,Active,,,Bridge MLS,40855550,N,Y,38.0041927,-121.7236315
+MLS Listing,,Single Family Residential,807 Valencia Ct,El Dorado Hills,CA,95762,649000,4,3.5,El Dorado Hills,2891,6839,2015,123,,129,Active,,,MetroList,19009401,N,Y,38.6189165,-121.0437451
+MLS Listing,,Vacant Land,3550 Bear River Rd,Lincoln,CA,95648,625000,,,East Lincoln Outside City limits,,2269476,,143,,,Active,,,MetroList,19005854,N,Y,38.997334,-121.234941
+MLS Listing,,Multi-Family (2-4 Unit),1726 N Brooks Ave,Fresno,CA,93705,419000,10,6,Fresno,4512,13832,1971,148,93,,Active,,,FRESNOMLS,516772,N,Y,36.766339,-119.825459
+MLS Listing,,Multi-Family (2-4 Unit),1717 N Fruit Ave,Fresno,CA,93705,254900,4,2.5,Fresno,1856,8505,1951,204,137,,Active,,,FRESNOMLS,514403,N,Y,36.7660044,-119.8178902
+MLS Listing,,Vacant Land,1300 Sierra Oaks Cir,Newcastle,CA,95658,774900,,,Newcastle/Zip 95658,,635976,,256,,,Active,,,MetroList,18069923,N,Y,38.865012,-121.125134
+MLS Listing,,Vacant Land,2757 Capetanios Dr,El Dorado Hills,CA,95762,439900,,,El Dorado Hills,,55504,,275,,77,Active,,,MetroList,18065224,N,Y,38.684816,-121.092298
+MLS Listing,,Single Family Residential,4396 Fremonts Loop,Rescue,CA,95672,875000,4,3.5,"Rescue, Luneman",3307,219978,2003,283,,33,Active,,,MetroList,18063651,N,Y,38.710333,-120.994979
+MLS Listing,,Vacant Land,5765 Indigo Run,Reno,NV,89511,287500,,,Reno-South Suburban,,45302,,374,,218,Active,,,NNRMLS,180008303,N,Y,39.405703,-119.832835
+MLS Listing,,Vacant Land,4056 Via Grant Dr,Carson City,NV,89703,290000,,,Carson N.W.,,143312,,377,,,Active,,,NNRMLS,180008177,N,Y,39.1937793,-119.8072769
+Redfin Data,,Single Family Residential,1368 Delaware St,Berkeley,CA,94702,899000,2,1,Berkeley,922,3300,1947,1,975,,Pre On-Market,,,Coming Soon,37530,N,Y,37.8724737,-122.2852152
+Redfin Data,,Single Family Residential,2834 Maria St,Pleasanton,CA,94588,1115000,4,3,Pleasanton,1990,3986,2002,2,560,150,Pre On-Market,,,Coming Soon,34625,N,Y,37.6934416,-121.8553493
+Redfin Data,,Condo/Co-op,1535 London Cir,Benicia,CA,94510,475000,2,2,Benicia,1095,,1980,2,434,394,Pre On-Market,,,Coming Soon,37514,N,Y,38.0716139,-122.183203
+Redfin Data,,Single Family Residential,30 Gladstone Dr,San Francisco,CA,94112,1100000,3,2,San Francisco,,2304,1942,2,,,Pre On-Market,,,Coming Soon,37463,N,Y,37.7308566,-122.420435
+Redfin Data,,Single Family Residential,5485 Rathdrum Way,Antioch,CA,94531,630000,4,3,Antioch,2781,7520,2013,2,227,,Pre On-Market,,,Coming Soon,37460,N,Y,37.9681152,-121.7480198
+Redfin Data,,Single Family Residential,1632 Terilyn Ave,San Jose,CA,95122,734888,3,2,San Jose,1040,4901,1959,3,707,,Pre On-Market,,,Coming Soon,37414,N,Y,37.3304761,-121.8406265
+Redfin Data,,Single Family Residential,4318 Kingsly Dr,Pittsburg,CA,94565,499888,4,3,Pittsburg,2052,14400,1982,4,244,,Pre On-Market,,,Coming Soon,37317,N,Y,37.9906902,-121.8794308
+Redfin Data,,Single Family Residential,956 Pomeroy Ave,Santa Clara,CA,95051,1700000,3,2,Santa Clara,1733,6000,1964,4,981,,Pre On-Market,,,Coming Soon,36626,N,Y,37.3434086,-121.9876992
+Redfin Data,,Single Family Residential,39255 Ebbetts St,Newark,CA,94560,1099000,3,2,Newark,1850,10113,1979,4,594,,Pre On-Market,,,Coming Soon,37247,N,Y,37.5196564,-122.0062666
+Redfin Data,,Single Family Residential,113 Humphrey Ln,Vallejo,CA,94591,559000,5,3,Vallejo,2255,4861,2002,5,248,,Pre On-Market,,,Coming Soon,37137,N,Y,38.0697416,-122.2061974
+Redfin Data,,Single Family Residential,22119 Prospect St,Hayward,CA,94541,1125000,5,4,Hayward,4226,15000,1950,7,266,,Pre On-Market,,,Coming Soon,36974,N,Y,37.6782954,-122.0896675
+Redfin Data,,Single Family Residential,1760 Loyola Dr,San Jose,CA,95122,749888,3,2,San Jose,1040,5356,1959,10,721,,Pre On-Market,,,Coming Soon,36710,N,Y,37.3344879,-121.8348881
+Redfin Data,,Single Family Residential,936 Via Bregani,San Lorenzo,CA,94580,678800,3,2,San Lorenzo,1317,5005,1957,10,515,10,Pre On-Market,,,Coming Soon,36494,N,Y,37.6825911,-122.1410209
+Redfin Data,,Single Family Residential,46719 Rancho Higuera Rd,Fremont,CA,94539,1849000,4,3,Fremont,2368,10158,1979,10,781,,Pre On-Market,,,Coming Soon,36696,N,Y,37.4955366,-121.9111757
+Redfin Data,,Condo/Co-op,730 Fargo Ave #5,San Leandro,CA,94579,519888,3,3,San Leandro,1136,,1965,12,458,,Pre On-Market,,,Coming Soon,36547,N,Y,37.6874159,-122.1407221
+Redfin Data,,Condo/Co-op,3198 Kimber Ct #93,San Jose,CA,95124,598000,2,1,San Jose,886,1148,1977,12,675,,Pre On-Market,,,Coming Soon,36486,N,Y,37.2656361,-121.920441
+Redfin Data,,Condo/Co-op,1131 Yarwood Ct,San Jose,CA,95128,669888,2,2,San Jose,922,1960,1988,13,727,,Pre On-Market,,,Coming Soon,36392,N,Y,37.311372,-121.93955
+Redfin Data,,Single Family Residential,6106 Lowell St,Emeryville,CA,94608,1300000,3,2.5,Emeryville,1985,2544,2014,16,655,,Pre On-Market,,,Coming Soon,36165,N,Y,37.8455667,-122.2770968
+Redfin Data,,Single Family Residential,1410 Lawrence St,El Cerrito,CA,94530,728000,3,1,El Cerrito,884,2500,1954,26,824,,Pre On-Market,,,Coming Soon,35159,N,Y,37.9213089,-122.304883
+Redfin Data,,Single Family Residential,1617 Derby St,Berkeley,CA,94703,1100000,3,1,Berkeley,991,5985,1942,32,1110,,Pre On-Market,,,Coming Soon,34716,N,Y,37.8592786,-122.2770193
+MLS Listing,,Mobile/Manufactured Home,4268 Fernwood St,Rocklin,CA,95677,65500,2,1,East Rocklin/Zip 95677,750,,,1,,,Active,,,MetroList,19044239,N,Y,38.7868615,-121.2272625
+MLS Listing,,Single Family Residential,445 Greenbrier Rd,HALF MOON BAY,CA,94019,2200000,4,3.5,HALF MOON BAY,3400,14300,1977,1,647,125,Active,,,MLSListings,ML81757908,N,Y,37.4341862,-122.4305111
+MLS Listing,,Single Family Residential,756 Mojave Way,HOLLISTER,CA,95023,605000,5,3,HOLLISTER,2775,5017,2019,1,218,,Active,,,MLSListings,ML81757907,N,Y,36.8524545,-121.4016021
+MLS Listing,,Single Family Residential,143 Sunstream Ct,Fairfield,CA,94533,310000,3,2.5,Fairfield 2,1603,1742,1978,1,193,425,Active,,,BAREIS,21916097,N,Y,38.283714,-122.033546
+MLS Listing,,Single Family Residential,1433 El Tejon Way,Sacramento,CA,95864,1450000,5,4,Sacramento Arden/Arcade Creek/Vicinity,4100,11199,1990,1,,8,Active,,,MetroList,19044214,N,Y,38.5903143,-121.380294
+MLS Listing,,Condo/Co-op,1127 Azuar Ave,Vallejo,CA,94592,512000,3,2,Vallejo 8,1874,1872,2006,1,273,294,Active,,,BAREIS,21916105,N,Y,38.095629,-122.2713
+MLS Listing,,Single Family Residential,33 Del Mar St,Woodland,CA,95695,429000,4,2,South Woodland,1700,6325,1972,1,,,Active,,,MetroList,19044234,N,Y,38.6563519,-121.7823613
+MLS Listing,,Single Family Residential,16491 Fiddletown Rd,Fiddletown,CA,95629,359000,3,2,Fiddletown,1316,217800,1979,1,,,Active,,,MetroList,19044184,N,Y,38.499341,-120.718861
+MLS Listing,,Single Family Residential,5 Channel Dr,REDWOOD CITY,CA,94065,1735000,3,2.5,REDWOOD CITY,1860,3804,1988,1,933,299,Active,June-25-2019 10:00 AM,June-25-2019 01:00 PM,MLSListings,ML81757906,N,Y,37.5341063,-122.2370936
+MLS Listing,,Single Family Residential,1300 Eastlake Cir,Tracy,CA,95304,580000,4,3,Hidden Lake,2808,6300,2000,1,207,100,Active,,,Bridge MLS,40871543,N,Y,37.7167185,-121.4120899
+MLS Listing,,Single Family Residential,145 Donna Ct,Vallejo,CA,94589,369000,3,2,Vallejo 6,1072,4792,1972,1,344,,Active,,,BAREIS,21916104,N,Y,38.14939,-122.2621763
+MLS Listing,,Single Family Residential,2439 Benton St,SANTA CLARA,CA,95051,998000,3,2,SANTA CLARA,1134,6805,1955,1,880,,Active,,,MLSListings,ML81757904,N,Y,37.3465014,-121.9695064
+MLS Listing,,Single Family Residential,1345 Oxford Ave,Sparks,NV,89431,283000,3,2,Sparks,1225,7840,1960,1,231,,Active,,,NNRMLS,190009485,N,Y,39.5457657,-119.7604624
+MLS Listing,,Single Family Residential,16 Betsey Way,Chico,CA,95928,325000,3,2,Chico,1378,6098,1988,1,236,,Active,,,CRMLS,SN19148464,N,Y,39.7307053,-121.8037443
+MLS Listing,,Single Family Residential,4983 Camden Ave,SAN JOSE,CA,95124,1199000,4,2,SAN JOSE,1396,6037,1957,1,859,,Active,June-27-2019 04:00 PM,June-27-2019 07:00 PM,MLSListings,ML81757903,N,Y,37.2470583,-121.9092419
+MLS Listing,,Vacant Land,51212 Jeffery Pine Dr,Soda Springs,CA,95728,40000,,,Pla Vada,,,,1,,64,Active,,,TSMLS,20191570,N,Y,39.32313,-120.439103
+MLS Listing,,Single Family Residential,6244 Cannon Ct,Magalia,CA,95954,309900,3,2,Magalia,1654,10454,2003,1,187,19,Active,,,CRMLS,SN19148525,N,Y,39.8397236,-121.6050213
+MLS Listing,,Townhouse,51 Burke Crk,Zephyr Cove,NV,89448,580000,3,2,Lake Village,1688,2613,1971,1,344,324,Active,,,NNRMLS,190009484,N,Y,38.9754187,-119.9332021
+MLS Listing,,Condo/Co-op,189 Clayton Cir,Vacaville,CA,95687,500000,5,2.5,Vacaville 5,2043,5663,1976,1,245,,Active,,,BAREIS,21916100,N,Y,38.3408827,-121.9568874
+MLS Listing,,Single Family Residential,8201 Charlotte Ave,Citrus Heights,CA,95610,350000,3,2,Citrus Heights,1401,6534,1985,1,,,Active,,,MetroList,19044118,N,Y,38.7155092,-121.2640449
+MLS Listing,,Single Family Residential,320 Jack Pine St,Tahoe City,CA,96145,625000,2,1.5,Tahoe City Terrace,977,,1962,1,640,,Active,,,TSMLS,20191569,N,Y,39.1747047,-120.1397819
+MLS Listing,,Condo/Co-op,450 N Arlington #1408,Reno,NV,89503,235000,1,1,Reno-Downtown Core,631,,2007,1,372,410,Active,,,NNRMLS,190009483,N,Y,39.5302903,-119.817996
+MLS Listing,,Condo/Co-op,2249 Hillsborough Ct #4,Concord,CA,94520,274950,2,1.5,Concord,1050,,1970,1,262,225,Active,,,Bridge MLS,40871540,N,Y,37.9973635,-122.0370282
+MLS Listing,,Single Family Residential,4700 N Stone Rd,Bethel Island,CA,94511,625000,4,2,Pleasant Times,2290,6975,1991,1,273,,Active,,,Bridge MLS,40871539,N,Y,38.0175164,-121.6097908
+MLS Listing,,Single Family Residential,1413 Napoli Cir,SALINAS,CA,93905,606000,5,3,SALINAS,2775,5870,2019,1,218,,Active,,,MLSListings,ML81757902,N,Y,36.6803025,-121.6269853
+MLS Listing,,Single Family Residential,1815 Princeton,Stockton,CA,95204-2924,299999,3,2,Stockton,1948,25886,1948,1,154,,Active,,,Bridge MLS,40871538,N,Y,37.9760875,-121.3248203
+MLS Listing,,Single Family Residential,10997 Seymour St,CASTROVILLE,CA,95012,499999,3,2,CASTROVILLE,1322,4250,1987,1,378,,Active,,,MLSListings,ML81757901,N,Y,36.7671504,-121.752387
+MLS Listing,,Single Family Residential,1134 Hazelnut Ln,Madera,CA,93637,309000,3,2.5,Madera,2171,5058,2006,1,142,,Active,,,FRESNOMLS,525544,N,Y,36.9442585,-120.0964229
+MLS Listing,,Single Family Residential,2940 Burbank Dr,Fairfield,CA,94534,465000,3,2,Fairfield 4,1674,13939,1979,1,278,,Active,,,BAREIS,21916093,N,Y,38.2658835,-122.0672989
+MLS Listing,,Single Family Residential,1315 Havenhill Way,Stockton,CA,95209,314900,3,2,Northeast Stockton,1442,6499,1977,1,,,Active,,,MetroList,19044119,N,Y,38.0389518,-121.3291099
+MLS Listing,,Single Family Residential,9609 La Posada,Oakdale,CA,95361,799000,3,3,Oakdale Rural,2521,20399,1981,1,,,Active,,,MetroList,19044221,N,Y,37.7788139,-120.8126311
+MLS Listing,,Single Family Residential,1744 Maryland St,REDWOOD CITY,CA,94061,1495000,3,2,REDWOOD CITY,1460,6050,1951,1,1024,,Active,June-28-2019 05:00 PM,June-28-2019 07:00 PM,MLSListings,ML81757900,N,Y,37.4535509,-122.2359855
+MLS Listing,,Single Family Residential,2825 Cathedral Rock Way,Dublin,CA,94568,1549995,5,4.5,Dublin,3371,4635,2019,1,460,158,Active,,,Bridge MLS,40871537,N,Y,37.7021521,-121.9357918
+MLS Listing,,Single Family Residential,1647 Tumbleweed Way,Los Banos,CA,93635,355000,4,2,Los Banos,1894,6098,2007,1,,,Active,,,MetroList,19044216,N,Y,37.0509982,-120.8786843
+MLS Listing,,Single Family Residential,8675 Songbird Way,Hilmar,CA,95324,380000,4,2,Hilmar,1924,5942,2000,1,,,Active,,,MetroList,19044218,N,Y,37.4140959,-120.8588889
+MLS Listing,,Mobile/Manufactured Home,94 Colonial Park Dr,Santa Rosa,CA,95403,119950,2,1.5,Santa Rosa-Northwest,720,,1978,1,167,,Active,,,BAREIS,21913233,N,Y,38.5186505,-122.7738062
+MLS Listing,,Vacant Land,658 Jefferson Ave,LOS BANOS,CA,93635,85000,,,LOS BANOS,,8137,,1,,,Active,,,MLSListings,ML81757899,N,Y,37.054428,-120.8484833
+MLS Listing,,Single Family Residential,1141 Geary Ave,Sanger,CA,93657,239900,4,1.5,Sanger,1778,7750,1960,1,135,,Active,,,FRESNOMLS,525562,N,Y,36.7183062,-119.5550795
+MLS Listing,,Single Family Residential,636 Aja Pl,Dayton,NV,89403,285000,3,2,Mark Twain,1288,13503,2005,1,221,,Active,,,NNRMLS,190009482,N,Y,39.306095,-119.541778
+MLS Listing,,Single Family Residential,1593 Sage Sparrow Ave,Manteca,CA,95337,485000,3,2.5,South Manteca,2428,8159,2002,1,,,Active,,,MetroList,19044213,N,Y,37.7780163,-121.2483739
+MLS Listing,,Single Family Residential,14195 Wolfgang Rd,Truckee,CA,96161,870000,4,2.5,Tahoe Donner 06,2691,,2001,1,323,164,Active,,,TSMLS,20191568,N,Y,39.3713904,-120.2430467
+MLS Listing,,Single Family Residential,4185 Beacon Pl,DISCOVERY BAY,CA,94505,819000,3,2,DISCOVERY BAY,2065,7320,1997,1,397,,Active,,,MLSListings,ML81757894,N,Y,37.898686,-121.6142481
+MLS Listing,,Single Family Residential,19330 Oak Tree Rd,Nevada City,CA,95959,975000,3,2.5,North San Juan,1864,883832,1986,1,,,Active,,,MetroList,19044207,N,Y,39.36218,-121.093647
+MLS Listing,,Single Family Residential,2664 Vicky Ln,Minden,NV,89423,600000,3,2,G/M Johnson Ln,2563,34412,1998,1,234,37,Active,,,NNRMLS,190009481,N,Y,39.0314004,-119.7430111
+MLS Listing,,Single Family Residential,6901 shady willow,Rio Linda,CA,95673,335000,3,2,Rio Linda,1410,7405,1990,1,,,Active,,,MetroList,19044210,N,Y,38.6931336,-121.4608529

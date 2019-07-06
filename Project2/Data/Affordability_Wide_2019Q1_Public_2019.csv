@@ -1,0 +1,1044 @@
+RegionID,RegionName,SizeRank,Index,MarQ12019
+102001,United States,0,Price To Income,3.562197925
+394913,"New York, NY",1,Price To Income,5.530237827
+753899,"Los Angeles-Long Beach-Anaheim, CA",2,Price To Income,8.830345797
+394463,"Chicago, IL",3,Price To Income,3.145603979
+394514,"Dallas-Fort Worth, TX",4,Price To Income,3.475606811
+394974,"Philadelphia, PA",5,Price To Income,3.249354032
+394692,"Houston, TX",6,Price To Income,3.120228219
+395209,"Washington, DC",7,Price To Income,3.931935493
+394856,"Miami-Fort Lauderdale, FL",8,Price To Income,5.030078628
+394347,"Atlanta, GA",9,Price To Income,3.228025924
+394404,"Boston, MA",10,Price To Income,5.160104404
+395057,"San Francisco, CA",11,Price To Income,8.788809526
+394532,"Detroit, MI",12,Price To Income,2.643335074
+395025,"Riverside, CA",13,Price To Income,5.631175779
+394976,"Phoenix, AZ",14,Price To Income,4.105878245
+395078,"Seattle, WA",15,Price To Income,5.691311495
+394865,"Minneapolis-St Paul, MN",16,Price To Income,3.360790549
+395056,"San Diego, CA",17,Price To Income,7.29632341
+395121,"St. Louis, MO",18,Price To Income,2.584687465
+395148,"Tampa, FL",19,Price To Income,3.953961467
+394358,"Baltimore, MD",20,Price To Income,3.369120949
+394530,"Denver, CO",21,Price To Income,5.047268856
+394982,"Pittsburgh, PA",22,Price To Income,2.338412437
+394998,"Portland, OR",23,Price To Income,5.22566227
+394458,"Charlotte, NC",24,Price To Income,3.267998109
+395045,"Sacramento, CA",25,Price To Income,5.782650419
+395055,"San Antonio, TX",26,Price To Income,3.312957012
+394943,"Orlando, FL",27,Price To Income,4.163540054
+394466,"Cincinnati, OH",28,Price To Income,2.641386872
+394475,"Cleveland, OH",29,Price To Income,2.69280688
+394735,"Kansas City, MO",30,Price To Income,2.920489805
+394775,"Las Vegas, NV",31,Price To Income,4.652153268
+394492,"Columbus, OH",32,Price To Income,2.867896227
+394705,"Indianapolis, IN",33,Price To Income,2.679005454
+395059,"San Jose, CA",34,Price To Income,9.693761197
+394355,"Austin, TX",35,Price To Income,4.054882388
+395194,"Virginia Beach, VA",36,Price To Income,3.440887187
+394902,"Nashville, TN",37,Price To Income,3.837070948
+395005,"Providence, RI",38,Price To Income,4.253352722
+394862,"Milwaukee, WI",39,Price To Income,3.750761109
+394714,"Jacksonville, FL",40,Price To Income,3.522543417
+394849,"Memphis, TN",41,Price To Income,2.650782833
+394935,"Oklahoma City, OK",42,Price To Income,2.500325505
+394807,"Louisville-Jefferson County, KY",43,Price To Income,2.713240666
+394669,"Hartford, CT",44,Price To Income,3.086417003
+395022,"Richmond, VA",45,Price To Income,3.250450998
+394910,"New Orleans, LA",46,Price To Income,3.350708261
+394425,"Buffalo, NY",47,Price To Income,2.725918742
+395012,"Raleigh, NC",48,Price To Income,3.523837505
+394388,"Birmingham, AL",49,Price To Income,2.658752328
+395053,"Salt Lake City, UT",50,Price To Income,4.847816081
+395031,"Rochester, NY",51,Price To Income,2.432541872
+394640,"Grand Rapids, MI",52,Price To Income,3.008381862
+395167,"Tucson, AZ",53,Price To Income,3.803906401
+753924,"Urban Honolulu, HI",54,Price To Income,8.074292668
+395169,"Tulsa, OK",55,Price To Income,2.555269276
+394619,"Fresno, CA",56,Price To Income,4.631258679
+395238,"Worcester, MA",57,Price To Income,3.817361421
+394415,"Stamford, CT",58,Price To Income,3.521983746
+394312,"Albuquerque, NM",59,Price To Income,3.768094547
+394308,"Albany, NY",60,Price To Income,2.984976966
+394938,"Omaha, NE",61,Price To Income,2.551721562
+394908,"New Haven, CT",62,Price To Income,3.08778804
+394357,"Bakersfield, CA",63,Price To Income,4.254329226
+394753,"Knoxville, TN",64,Price To Income,3.1857891
+394653,"Greenville, SC",65,Price To Income,3.339946074
+394952,"Ventura, CA",66,Price To Income,6.999925234
+394318,"Allentown, PA",67,Price To Income,3.03277397
+394561,"El Paso, TX",68,Price To Income,2.739412795
+394367,"Baton Rouge, LA",69,Price To Income,2.829229336
+394521,"Dayton, OH",70,Price To Income,2.258781723
+394843,"McAllen, TX",71,Price To Income,2.715568705
+394486,"Columbia, SC",72,Price To Income,2.467890982
+394648,"Greensboro, NC",73,Price To Income,2.572336399
+394304,"Akron, OH",74,Price To Income,2.39470867
+753906,"North Port-Sarasota-Bradenton, FL",75,Price To Income,4.376843265
+394798,"Little Rock, AR",76,Price To Income,2.55071572
+395134,"Stockton, CA",77,Price To Income,5.658279359
+394457,"Charleston, SC",78,Price To Income,4.067362599
+395143,"Syracuse, NY",79,Price To Income,2.277283574
+394484,"Colorado Springs, CO",80,Price To Income,4.306663063
+395235,"Winston-Salem, NC",81,Price To Income,2.851893724
+395224,"Wichita, KS",82,Price To Income,2.335630973
+395115,"Springfield, MA",83,Price To Income,3.890589309
+394440,"Fort Myers, FL",84,Price To Income,4.125434906
+394399,"Boise City, ID",85,Price To Income,4.933698621
+395160,"Toledo, OH",86,Price To Income,2.141283664
+394816,"Madison, WI",87,Price To Income,3.432021135
+394766,"Lakeland, FL",88,Price To Income,3.497918185
+394931,"Ogden, UT",89,Price To Income,4.207867102
+394528,"Daytona Beach, FL",90,Price To Income,4.158663369
+394531,"Des Moines, IA",91,Price To Income,2.608278068
+394711,"Jackson, MS",92,Price To Income,2.64733491
+395245,"Youngstown, OH",93,Price To Income,1.843196045
+394352,"Augusta, GA",94,Price To Income,2.967636789
+395075,"Scranton, PA",95,Price To Income,2.149033783
+394666,"Harrisburg, PA",96,Price To Income,2.571476453
+394957,"Melbourne, FL",97,Price To Income,3.929574566
+394460,"Chattanooga, TN",98,Price To Income,3.01914802
+395113,"Spokane, WA",99,Price To Income,4.326499095
+395006,"Provo, UT",100,Price To Income,4.847872697
+394768,"Lancaster, PA",101,Price To Income,3.126087177
+394871,"Modesto, CA",102,Price To Income,4.894108957
+394997,"Portland, ME",103,Price To Income,4.011995622
+394549,"Durham, NC",104,Price To Income,3.78809847
+395068,"Santa Rosa, CA",105,Price To Income,7.31172396
+394792,"Lexington, KY",106,Price To Income,2.93685296
+394761,"Lafayette, LA",107,Price To Income,2.737534301
+394770,"Lansing, MI",108,Price To Income,2.51929361
+394590,"Fayetteville, AR",109,Price To Income,3.127198092
+394971,"Pensacola, FL",110,Price To Income,3.076329264
+395195,"Visalia, CA",111,Price To Income,4.381439797
+395096,"Shreveport, LA",112,Price To Income,2.945235093
+395116,"Springfield, MO",113,Price To Income,2.964383108
+395244,"York, PA",114,Price To Income,2.704427058
+394502,"Corpus Christi, TX",115,Price To Income,2.850370363
+394596,"Flint, MI",116,Price To Income,2.260811042
+395019,"Reno, NV",117,Price To Income,5.677892317
+394338,"Asheville, NC",118,Price To Income,4.74569248
+394995,"Port St. Lucie, FL",119,Price To Income,4.215208807
+753917,"Santa Maria-Santa Barbara, CA",120,Price To Income,7.996910675
+394698,"Huntsville, AL",121,Price To Income,2.627539903
+394612,"Fort Wayne, IN",122,Price To Income,2.52044163
+395050,"Salinas, CA",123,Price To Income,7.4952447
+395183,"Vallejo, CA",124,Price To Income,5.413761024
+394870,"Mobile, AL",125,Price To Income,2.532205542
+395015,"Reading, PA",126,Price To Income,2.722458399
+394421,"Brownsville, TX",127,Price To Income,2.474946498
+394746,"Killeen, TX",128,Price To Income,2.493915082
+394439,"Canton, OH",129,Price To Income,2.371896605
+394372,"Beaumont, TX",130,Price To Income,2.320985612
+394820,"Manchester, NH",131,Price To Income,3.496516831
+395048,"Salem, OR",132,Price To Income,4.808626439
+394327,"Anchorage, AK",133,Price To Income,4.033302889
+394520,"Davenport, IL",134,Price To Income,2.250116935
+394972,"Peoria, IL",135,Price To Income,1.854010725
+394898,"Myrtle Beach, SC",136,Price To Income,3.808324947
+394875,"Montgomery, AL",137,Price To Income,2.209527426
+395051,"Salisbury, MD",138,Price To Income,3.788448624
+394658,"Gulfport, MS",139,Price To Income,2.713658363
+395146,"Tallahassee, FL",140,Price To Income,3.257717204
+395164,"Trenton, NJ",141,Price To Income,2.887404732
+394589,"Fayetteville, NC",142,Price To Income,2.540611697
+394679,"Hickory, NC",143,Price To Income,2.679578136
+394697,"Huntington, WV",144,Price To Income,2.354057711
+394576,"Eugene, OR",145,Price To Income,5.522767754
+395033,"Rockford, IL",146,Price To Income,1.961899442
+395070,"Savannah, GA",147,Price To Income,3.052715762
+394332,"Ann Arbor, MI",148,Price To Income,3.914281455
+394927,"Ocala, FL",149,Price To Income,3.338842006
+394732,"Kalamazoo, MI",150,Price To Income,2.669581618
+394901,"Naples, FL",151,Price To Income,4.896222114
+395107,"South Bend, IN",152,Price To Income,2.278551601
+395109,"Spartanburg, SC",153,Price To Income,2.621631626
+394579,"Evansville, IN",154,Price To Income,2.551717658
+394747,"Kingsport, TN",155,Price To Income,2.776725452
+395028,"Roanoke, VA",156,Price To Income,2.962264859
+394646,"Green Bay, WI",157,Price To Income,2.731884956
+394796,"Lincoln, NE",158,Price To Income,2.921032009
+394602,"Fort Collins, CO",159,Price To Income,5.30769865
+395179,"Utica, NY",160,Price To Income,2.277080142
+394488,"Columbus, GA",161,Price To Income,2.430887808
+394405,"Boulder, CO",162,Price To Income,6.255528028
+394808,"Lubbock, TX",163,Price To Income,2.716643216
+394572,"Erie, PA",164,Price To Income,2.280062662
+394609,"Fort Smith, AR",165,Price To Income,2.539474913
+394543,"Duluth, MN",166,Price To Income,2.587847276
+394348,"Atlantic City, NJ",167,Price To Income,2.845723197
+394924,"New London, CT",168,Price To Income,3.07915532
+395061,"San Luis Obispo, CA",169,Price To Income,8.155864822
+394622,"Gainesville, FL",170,Price To Income,4.007485394
+395065,"Santa Cruz, CA",171,Price To Income,9.770666089
+394471,"Clarksville, TN",172,Price To Income,2.679935518
+394447,"Cedar Rapids, IA",173,Price To Income,2.198807653
+394851,"Merced, CA",174,Price To Income,5.25794627
+395229,"Wilmington, NC",175,Price To Income,4.390737707
+394741,"Kennewick, WA",176,Price To Income,4.39971358
+394645,"Greeley, CO",177,Price To Income,4.554441311
+395197,"Waco, TX",178,Price To Income,3.10945346
+394937,"Olympia, WA",179,Price To Income,4.229981694
+394323,"Amarillo, TX",180,Price To Income,2.56342169
+394387,"Binghamton, NY",181,Price To Income,2.224083351
+394660,"Hagerstown, WV",182,Price To Income,2.95484227
+394412,"Bremerton, WA",183,Price To Income,4.835488218
+394772,"Laredo, TX",184,Price To Income,3.115804628
+394811,"Lynchburg, VA",185,Price To Income,2.855117852
+395240,"Yakima, WA",186,Price To Income,4.373443017
+753875,"Crestview-Fort Walton Beach-Destin, FL",187,Price To Income,4.061190473
+395161,"Topeka, KS",188,Price To Income,2.009529111
+394813,"Macon-Bibb County, GA",189,Price To Income,2.662669721
+394454,"Champaign-Urbana, IL",190,Price To Income,2.46768043
+395171,"Tuscaloosa, AL",191,Price To Income,2.873365348
+394483,"College Station, TX",192,Price To Income,4.29456693
+395103,"Sioux Falls, SD",193,Price To Income,2.827591773
+394455,"Charleston, WV",194,Price To Income,2.118300284
+394334,"Appleton, WI",195,Price To Income,2.547055074
+394464,"Chico, CA",196,Price To Income,6.001597798
+394459,"Charlottesville, VA",197,Price To Income,3.881398638
+394361,"Barnstable Town, MA",199,Price To Income,5.621984646
+394803,"Longview, TX",200,Price To Income,2.708523521
+394429,"Burlington, VT",201,Price To Income,4.201440312
+395002,"Prescott, AZ",202,Price To Income,5.851294239
+395114,"Springfield, IL",203,Price To Income,1.843376874
+395174,"Tyler, TX",204,Price To Income,2.848304197
+394773,"Las Cruces, NM",205,Price To Income,4.47347987
+394585,"Fargo, ND",206,Price To Income,3.16812673
+394691,"Houma, LA",207,Price To Income,2.920560741
+395030,"Rochester, MN",208,Price To Income,2.82533303
+394597,"Florence, SC",209,Price To Income,2.379430939
+394848,"Medford, OR",210,Price To Income,5.551413229
+753895,"Lafayette-West Lafayette, IN",211,Price To Income,2.814371476
+394378,"Bellingham, WA",212,Price To Income,6.195258189
+394765,"Lake Havasu City, AZ",213,Price To Income,5.089338056
+395047,"Saginaw, MI",214,Price To Income,2.486582407
+394763,"Lake Charles, LA",215,Price To Income,2.623622916
+394726,"Johnson City, TN",216,Price To Income,3.375043289
+394565,"Elkhart, IN",217,Price To Income,2.510108769
+395247,"Yuma, AZ",218,Price To Income,2.987014275
+395011,"Racine, WI",219,Price To Income,3.543689004
+394346,"Athens, GA",220,Price To Income,3.730437819
+394681,"Hilton Head Island, SC",223,Price To Income,5.43198254
+753869,"Bloomington, IL",224,Price To Income,2.054176521
+394960,"Panama City, FL",226,Price To Income,3.876101312
+394748,"Kingston, NY",227,Price To Income,3.418599916
+394519,"Daphne, AL",228,Price To Income,3.789322764
+394623,"Gainesville, GA",229,Price To Income,2.981663371
+395202,"Warner Robins, GA",230,Price To Income,2.340257592
+394392,"Blacksburg, VA",231,Price To Income,2.923915281
+394716,"Jacksonville, NC",232,Price To Income,2.809228518
+395018,"Redding, CA",233,Price To Income,4.700460167
+394872,"Monroe, LA",234,Price To Income,2.885711437
+394729,"Joplin, MO",235,Price To Income,2.419146898
+394559,"El Centro, CA",236,Price To Income,4.297169264
+395151,"Terre Haute, IN",237,Price To Income,2.080804749
+394896,"Muskegon, MI",238,Price To Income,2.430123036
+394553,"East Stroudsburg, PA",239,Price To Income,2.398332282
+395102,"Sioux City, IA",240,Price To Income,2.178272161
+395210,"Waterloo, IA",242,Price To Income,2.405592599
+394944,"Oshkosh, WI",243,Price To Income,3.141621831
+395246,"Yuba City, CA",244,Price To Income,4.502107561
+394299,"Abilene, TX",245,Price To Income,2.342342731
+394485,"Columbia, MO",246,Price To Income,3.347417106
+394539,"Dover, DE",247,Price To Income,3.484631094
+394555,"Eau Claire, WI",248,Price To Income,2.774996568
+394710,"Jackson, MI",250,Price To Income,2.623344127
+395009,"Punta Gorda, FL",251,Price To Income,3.850943912
+394393,"Bloomington, IN",252,Price To Income,3.49625966
+395007,"Pueblo, CO",253,Price To Income,3.757480118
+394386,"Billings, MT",254,Price To Income,3.919940416
+394406,"Bowling Green, KY",255,Price To Income,3.397049792
+394380,"Bend, OR",256,Price To Income,5.670573736
+394306,"Albany, GA",257,Price To Income,2.378967197
+395193,"Vineland, NJ",258,Price To Income,2.456843922
+394917,"Niles, MI",259,Price To Income,2.831250905
+394731,"Kahului, HI",260,Price To Income,8.149637591
+394359,"Bangor, ME",263,Price To Income,2.788397666
+394314,"Alexandria, LA",264,Price To Income,2.913509944
+394662,"Hanford, CA",266,Price To Income,3.482621733
+394707,"Iowa City, IA",267,Price To Income,3.36176086
+394873,"Monroe, MI",269,Price To Income,2.515586272
+395223,"Wichita Falls, TX",270,Price To Income,1.997761774
+394428,"Burlington, NC",271,Price To Income,3.17852695
+394814,"Madera, CA",272,Price To Income,4.663253156
+394723,"Jefferson City, MO",273,Price To Income,2.904815388
+394453,"Chambersburg, PA",274,Price To Income,2.759926318
+395152,"Texarkana, TX",275,Price To Income,2.177542168
+394563,"Elizabethtown, KY",276,Price To Income,2.611857384
+395221,"Wheeling, OH",278,Price To Income,1.650439448
+394598,"Florence, AL",279,Price To Income,2.306627873
+394639,"Grand Junction, CO",280,Price To Income,4.343731321
+394537,"Dothan, AL",282,Price To Income,2.516110863
+395066,"Santa Fe, NM",283,Price To Income,6.14094658
+394727,"Johnstown, PA",284,Price To Income,1.416569653
+394671,"Hattiesburg, MS",286,Price To Income,3.123856151
+394515,"Dalton, GA",287,Price To Income,2.976322164
+394860,"Midland, TX",288,Price To Income,3.372539689
+394685,"Homosassa Springs, FL",289,Price To Income,3.405457472
+394351,"Auburn, AL",290,Price To Income,3.452099751
+395182,"Valdosta, GA",291,Price To Income,3.022170393
+394480,"Coeur d'Alene, ID",292,Price To Income,5.383823397
+395117,"Springfield, OH",293,Price To Income,2.246718638
+395119,"St. George, UT",294,Price To Income,5.502399178
+395079,"Vero Beach, FL",295,Price To Income,4.325868929
+394930,"Odessa, TX",296,Price To Income,3.114352458
+394900,"Napa, CA",297,Price To Income,7.340169269
+394368,"Battle Creek, MI",299,Price To Income,2.070944979
+395013,"Rapid City, SD",302,Price To Income,3.62704165
+394595,"Flagstaff, AZ",303,Price To Income,6.306397475
+395215,"Wausau, WI",305,Price To Income,2.390595266
+394756,"La Crosse, WI",306,Price To Income,2.948815258
+394783,"Lebanon, PA",307,Price To Income,2.85162795
+394703,"Idaho Falls, ID",308,Price To Income,3.775372739
+395098,"Sierra Vista, AZ",309,Price To Income,2.667354067
+394983,"Pittsfield, MA",310,Price To Income,3.555498581
+394780,"Lawton, OK",311,Price To Income,1.817381358
+394712,"Jackson, TN",313,Price To Income,2.377412361
+394879,"Morgantown, WV",314,Price To Income,3.194718608
+394633,"Glens Falls, NY",315,Price To Income,2.788293504
+395232,"Winchester, VA",316,Price To Income,3.30549623
+395120,"St. Joseph, MO",317,Price To Income,2.329890907
+394321,"Altoona, PA",318,Price To Income,2.298460403
+394905,"New Bern, NC",319,Price To Income,2.7659067
+394442,"Carbondale, IL",320,Price To Income,1.944258147
+394800,"Logan, ID",322,Price To Income,4.839633421
+394668,"Harrisonburg, VA",323,Price To Income,3.76520754
+394374,"Beckley, WV",324,Price To Income,1.701326122
+394824,"Mansfield, OH",325,Price To Income,2.206657061
+394635,"Goldsboro, NC",327,Price To Income,1.872211255
+394661,"Hammond, LA",329,Price To Income,3.024985491
+394728,"Jonesboro, AR",330,Price To Income,2.169849663
+395128,"Staunton, VA",333,Price To Income,3.537567611
+394893,"Muncie, IN",334,Price To Income,2.148690765
+394890,"Mount Vernon, WA",335,Price To Income,5.103258761
+394307,"Albany, OR",336,Price To Income,4.686493206
+395213,"Watertown, NY",337,Price To Income,2.616630782
+395225,"Williamsport, PA",338,Price To Income,2.747799441
+394474,"Cleveland, TN",339,Price To Income,3.041685535
+394390,"Bismarck, ND",341,Price To Income,3.544212543
+394949,"Owensboro, KY",342,Price To Income,2.545342325
+394880,"Morristown, TN",345,Price To Income,2.782582979
+394734,"Kankakee, IL",346,Price To Income,1.999262218
+394423,"Brunswick, GA",347,Price To Income,3.998479884
+395054,"San Angelo, TX",349,Price To Income,2.743285507
+394857,"Michigan City, IN",350,Price To Income,2.799450982
+395218,"Wenatchee, WA",352,Price To Income,5.197064971
+394778,"Lawrence, KS",353,Price To Income,3.593890285
+394524,"Decatur, IL",354,Price To Income,1.363722755
+394867,"Missoula, MT",355,Price To Income,5.449948234
+394369,"Bay City, MI",357,Price To Income,1.950446547
+394788,"Lewiston, ME",358,Price To Income,3.281730869
+395139,"Sumter, SC",360,Price To Income,1.581915719
+394794,"Lima, OH",365,Price To Income,1.797587869
+753872,"California-Lexington Park, MD",367,Price To Income,3.329072337
+394620,"Gadsden, AL",368,Price To Income,2.383502508
+394513,"Cumberland, MD",369,Price To Income,2.14355976
+394804,"Longview, WA",370,Price To Income,5.299669856
+394599,"Fond du Lac, WI",372,Price To Income,2.326546669
+394709,"Ithaca, NY",373,Price To Income,3.454848924
+394630,"Gettysburg, PA",375,Price To Income,3.00869094
+394980,"Pine Bluff, AR",376,Price To Income,1.822751085
+395080,"Sebring, FL",382,Price To Income,3.612178442
+394637,"Grand Forks, ND",385,Price To Income,3.80583761
+394580,"Fairbanks, AK",387,Price To Income,3.096535825
+394928,"Ocean City, NJ",388,Price To Income,4.849478269
+394823,"Mankato, MN",389,Price To Income,3.026589634
+395038,"Rome, GA",390,Price To Income,2.666690584
+394441,"Cape Girardeau, MO",391,Price To Income,3.117464219
+394689,"Hot Springs, AR",392,Price To Income,2.89896237
+395190,"Victoria, TX",396,Price To Income,3.261275439
+394542,"Dubuque, IA",398,Price To Income,2.526559296
+395153,"The Villages, FL",399,Price To Income,4.770109235
+394821,"Manhattan, KS",401,Price To Income,3.610676347
+394964,"Parkersburg, WV",402,Price To Income,2.191990125
+394462,"Cheyenne, WY",405,Price To Income,3.92737117
+394325,"Ames, IA",410,Price To Income,2.667977045
+394568,"Elmira, NY",414,Price To Income,1.789618212
+394505,"Corvallis, OR",422,Price To Income,5.639183879
+394395,"Bloomsburg, PA",423,Price To Income,2.471558294
+394859,"Midland, MI",428,Price To Income,2.088594607
+394988,"Pocatello, ID",430,Price To Income,3.264846575
+394755,"Kokomo, IN",431,Price To Income,1.926911665
+394641,"Grants Pass, OR",432,Price To Income,5.770436151
+394638,"Grand Island, NE",435,Price To Income,2.383951022
+394516,"Danville, IL",437,Price To Income,1.303181271
+394644,"Great Falls, MT",439,Price To Income,4.007574572
+394489,"Columbus, IN",456,Price To Income,2.345952676
+394445,"Casper, WY",459,Price To Income,3.238948308
+395199,"Walla Walla, WA",512,Price To Income,4.247354876
+394787,"Lewiston, ID",525,Price To Income,4.122365496
+394444,"Carson City, NV",552,Price To Income,5.748715479
+102001,United States,0,Mortgage Affordability,0.168429437
+394913,"New York, NY",1,Mortgage Affordability,0.26148318
+753899,"Los Angeles-Long Beach-Anaheim, CA",2,Mortgage Affordability,0.417520362
+394463,"Chicago, IL",3,Mortgage Affordability,0.148731855
+394514,"Dallas-Fort Worth, TX",4,Mortgage Affordability,0.164335197
+394974,"Philadelphia, PA",5,Mortgage Affordability,0.153637412
+394692,"Houston, TX",6,Mortgage Affordability,0.147532027
+395209,"Washington, DC",7,Mortgage Affordability,0.185911534
+394856,"Miami-Fort Lauderdale, FL",8,Mortgage Affordability,0.237834429
+394347,"Atlanta, GA",9,Mortgage Affordability,0.152628967
+394404,"Boston, MA",10,Mortgage Affordability,0.243982366
+395057,"San Francisco, CA",11,Mortgage Affordability,0.415556426
+394532,"Detroit, MI",12,Mortgage Affordability,0.124983352
+395025,"Riverside, CA",13,Mortgage Affordability,0.266255774
+394976,"Phoenix, AZ",14,Mortgage Affordability,0.194135973
+395078,"Seattle, WA",15,Mortgage Affordability,0.269099137
+394865,"Minneapolis-St Paul, MN",16,Mortgage Affordability,0.158906403
+395056,"San Diego, CA",17,Mortgage Affordability,0.344988029
+395121,"St. Louis, MO",18,Mortgage Affordability,0.12221035
+395148,"Tampa, FL",19,Mortgage Affordability,0.186952976
+394358,"Baltimore, MD",20,Mortgage Affordability,0.159300285
+394530,"Denver, CO",21,Mortgage Affordability,0.238647225
+394982,"Pittsburgh, PA",22,Mortgage Affordability,0.110565863
+394998,"Portland, OR",23,Mortgage Affordability,0.247082102
+394458,"Charlotte, NC",24,Mortgage Affordability,0.154518949
+395045,"Sacramento, CA",25,Mortgage Affordability,0.273417865
+395055,"San Antonio, TX",26,Mortgage Affordability,0.156644716
+394943,"Orlando, FL",27,Mortgage Affordability,0.196862364
+394466,"Cincinnati, OH",28,Mortgage Affordability,0.124891236
+394475,"Cleveland, OH",29,Mortgage Affordability,0.1273225
+394735,"Kansas City, MO",30,Mortgage Affordability,0.138087906
+394775,"Las Vegas, NV",31,Mortgage Affordability,0.219965193
+394492,"Columbus, OH",32,Mortgage Affordability,0.135601153
+394705,"Indianapolis, IN",33,Mortgage Affordability,0.126669935
+395059,"San Jose, CA",34,Mortgage Affordability,0.458344756
+394355,"Austin, TX",35,Mortgage Affordability,0.191724764
+395194,"Virginia Beach, VA",36,Mortgage Affordability,0.162693568
+394902,"Nashville, TN",37,Mortgage Affordability,0.181426106
+395005,"Providence, RI",38,Mortgage Affordability,0.201108927
+394862,"Milwaukee, WI",39,Mortgage Affordability,0.177345165
+394714,"Jacksonville, FL",40,Mortgage Affordability,0.166554474
+394849,"Memphis, TN",41,Mortgage Affordability,0.1253355
+394935,"Oklahoma City, OK",42,Mortgage Affordability,0.11822151
+394807,"Louisville-Jefferson County, KY",43,Mortgage Affordability,0.12828866
+394669,"Hartford, CT",44,Mortgage Affordability,0.14593335
+395022,"Richmond, VA",45,Mortgage Affordability,0.153689279
+394910,"New Orleans, LA",46,Mortgage Affordability,0.158429688
+394425,"Buffalo, NY",47,Mortgage Affordability,0.12888811
+395012,"Raleigh, NC",48,Mortgage Affordability,0.166615662
+394388,"Birmingham, AL",49,Mortgage Affordability,0.125712318
+395053,"Salt Lake City, UT",50,Mortgage Affordability,0.22921661
+395031,"Rochester, NY",51,Mortgage Affordability,0.115016534
+394640,"Grand Rapids, MI",52,Mortgage Affordability,0.142243658
+395167,"Tucson, AZ",53,Mortgage Affordability,0.179858005
+753924,"Urban Honolulu, HI",54,Mortgage Affordability,0.38177232
+395169,"Tulsa, OK",55,Mortgage Affordability,0.120819386
+394619,"Fresno, CA",56,Mortgage Affordability,0.218977246
+395238,"Worcester, MA",57,Mortgage Affordability,0.180494191
+394415,"Stamford, CT",58,Mortgage Affordability,0.166528012
+394312,"Albuquerque, NM",59,Mortgage Affordability,0.178164733
+394308,"Albany, NY",60,Mortgage Affordability,0.141137017
+394938,"Omaha, NE",61,Mortgage Affordability,0.120651641
+394908,"New Haven, CT",62,Mortgage Affordability,0.145998176
+394357,"Bakersfield, CA",63,Mortgage Affordability,0.201155099
+394753,"Knoxville, TN",64,Mortgage Affordability,0.150631906
+394653,"Greenville, SC",65,Mortgage Affordability,0.157920825
+394952,"Ventura, CA",66,Mortgage Affordability,0.330973598
+394318,"Allentown, PA",67,Mortgage Affordability,0.143396976
+394561,"El Paso, TX",68,Mortgage Affordability,0.129526142
+394367,"Baton Rouge, LA",69,Mortgage Affordability,0.133772888
+394521,"Dayton, OH",70,Mortgage Affordability,0.106800728
+394843,"McAllen, TX",71,Mortgage Affordability,0.128398735
+394486,"Columbia, SC",72,Mortgage Affordability,0.116687926
+394648,"Greensboro, NC",73,Mortgage Affordability,0.121626361
+394304,"Akron, OH",74,Mortgage Affordability,0.113227687
+753906,"North Port-Sarasota-Bradenton, FL",75,Mortgage Affordability,0.206947862
+394798,"Little Rock, AR",76,Mortgage Affordability,0.120604082
+395134,"Stockton, CA",77,Mortgage Affordability,0.267537297
+394457,"Charleston, SC",78,Mortgage Affordability,0.192314859
+395143,"Syracuse, NY",79,Mortgage Affordability,0.107675541
+394484,"Colorado Springs, CO",80,Mortgage Affordability,0.203629571
+395235,"Winston-Salem, NC",81,Mortgage Affordability,0.134844516
+395224,"Wichita, KS",82,Mortgage Affordability,0.110434349
+395115,"Springfield, MA",83,Mortgage Affordability,0.183956585
+394440,"Fort Myers, FL",84,Mortgage Affordability,0.19506066
+394399,"Boise City, ID",85,Mortgage Affordability,0.233277346
+395160,"Toledo, OH",86,Mortgage Affordability,0.101245133
+394816,"Madison, WI",87,Mortgage Affordability,0.162274359
+394766,"Lakeland, FL",88,Mortgage Affordability,0.165390133
+394931,"Ogden, UT",89,Mortgage Affordability,0.198958256
+394528,"Daytona Beach, FL",90,Mortgage Affordability,0.196631783
+394531,"Des Moines, IA",91,Mortgage Affordability,0.123325771
+394711,"Jackson, MS",92,Mortgage Affordability,0.125172474
+395245,"Youngstown, OH",93,Mortgage Affordability,0.08715082
+394352,"Augusta, GA",94,Mortgage Affordability,0.140317131
+395075,"Scranton, PA",95,Mortgage Affordability,0.101611577
+394666,"Harrisburg, PA",96,Mortgage Affordability,0.121585701
+394957,"Melbourne, FL",97,Mortgage Affordability,0.185799903
+394460,"Chattanooga, TN",98,Mortgage Affordability,0.142752708
+395113,"Spokane, WA",99,Mortgage Affordability,0.204567467
+395006,"Provo, UT",100,Mortgage Affordability,0.229219287
+394768,"Lancaster, PA",101,Mortgage Affordability,0.147809053
+394871,"Modesto, CA",102,Mortgage Affordability,0.23140545
+394997,"Portland, ME",103,Mortgage Affordability,0.189696973
+394549,"Durham, NC",104,Mortgage Affordability,0.179110567
+395068,"Santa Rosa, CA",105,Mortgage Affordability,0.345716205
+394792,"Lexington, KY",106,Mortgage Affordability,0.138861596
+394761,"Lafayette, LA",107,Mortgage Affordability,0.129437322
+394770,"Lansing, MI",108,Mortgage Affordability,0.119118368
+394590,"Fayetteville, AR",109,Mortgage Affordability,0.14786158
+394971,"Pensacola, FL",110,Mortgage Affordability,0.145456377
+395195,"Visalia, CA",111,Mortgage Affordability,0.207165198
+395096,"Shreveport, LA",112,Mortgage Affordability,0.139257924
+395116,"Springfield, MO",113,Mortgage Affordability,0.140163289
+395244,"York, PA",114,Mortgage Affordability,0.127871931
+394502,"Corpus Christi, TX",115,Mortgage Affordability,0.134772487
+394596,"Flint, MI",116,Mortgage Affordability,0.10689668
+395019,"Reno, NV",117,Mortgage Affordability,0.268464646
+394338,"Asheville, NC",118,Mortgage Affordability,0.224387956
+394995,"Port St. Lucie, FL",119,Mortgage Affordability,0.199305389
+753917,"Santa Maria-Santa Barbara, CA",120,Mortgage Affordability,0.37811351
+394698,"Huntsville, AL",121,Mortgage Affordability,0.124236518
+394612,"Fort Wayne, IN",122,Mortgage Affordability,0.119172649
+395050,"Salinas, CA",123,Mortgage Affordability,0.354393515
+395183,"Vallejo, CA",124,Mortgage Affordability,0.255975872
+394870,"Mobile, AL",125,Mortgage Affordability,0.119728876
+395015,"Reading, PA",126,Mortgage Affordability,0.128724497
+394421,"Brownsville, TX",127,Mortgage Affordability,0.117021528
+394746,"Killeen, TX",128,Mortgage Affordability,0.117918409
+394439,"Canton, OH",129,Mortgage Affordability,0.112149077
+394372,"Beaumont, TX",130,Mortgage Affordability,0.109741881
+394820,"Manchester, NH",131,Mortgage Affordability,0.165323874
+395048,"Salem, OR",132,Mortgage Affordability,0.227363628
+394327,"Anchorage, AK",133,Mortgage Affordability,0.190704432
+394520,"Davenport, IL",134,Mortgage Affordability,0.106391036
+394972,"Peoria, IL",135,Mortgage Affordability,0.087662165
+394898,"Myrtle Beach, SC",136,Mortgage Affordability,0.180066925
+394875,"Montgomery, AL",137,Mortgage Affordability,0.104471865
+395051,"Salisbury, MD",138,Mortgage Affordability,0.179127123
+394658,"Gulfport, MS",139,Mortgage Affordability,0.128308409
+395146,"Tallahassee, FL",140,Mortgage Affordability,0.154032843
+395164,"Trenton, NJ",141,Mortgage Affordability,0.136523563
+394589,"Fayetteville, NC",142,Mortgage Affordability,0.120126339
+394679,"Hickory, NC",143,Mortgage Affordability,0.126697013
+394697,"Huntington, WV",144,Mortgage Affordability,0.11130561
+394576,"Eugene, OR",145,Mortgage Affordability,0.261129977
+395033,"Rockford, IL",146,Mortgage Affordability,0.092763408
+395070,"Savannah, GA",147,Mortgage Affordability,0.144339873
+394332,"Ann Arbor, MI",148,Mortgage Affordability,0.185076808
+394927,"Ocala, FL",149,Mortgage Affordability,0.157868622
+394732,"Kalamazoo, MI",150,Mortgage Affordability,0.126224353
+394901,"Naples, FL",151,Mortgage Affordability,0.231505365
+395107,"South Bend, IN",152,Mortgage Affordability,0.107735497
+395109,"Spartanburg, SC",153,Mortgage Affordability,0.12395716
+394579,"Evansville, IN",154,Mortgage Affordability,0.120651456
+394747,"Kingsport, TN",155,Mortgage Affordability,0.131290376
+395028,"Roanoke, VA",156,Mortgage Affordability,0.140063133
+394646,"Green Bay, WI",157,Mortgage Affordability,0.129170207
+394796,"Lincoln, NE",158,Mortgage Affordability,0.138113543
+394602,"Fort Collins, CO",159,Mortgage Affordability,0.250960983
+395179,"Utica, NY",160,Mortgage Affordability,0.107665922
+394488,"Columbus, GA",161,Mortgage Affordability,0.114938325
+394405,"Boulder, CO",162,Mortgage Affordability,0.295776676
+394808,"Lubbock, TX",163,Mortgage Affordability,0.12844954
+394572,"Erie, PA",164,Mortgage Affordability,0.107806943
+394609,"Fort Smith, AR",165,Mortgage Affordability,0.120072589
+394543,"Duluth, MN",166,Mortgage Affordability,0.122359753
+394348,"Atlantic City, NJ",167,Mortgage Affordability,0.134552758
+394924,"New London, CT",168,Mortgage Affordability,0.14559
+395061,"San Luis Obispo, CA",169,Mortgage Affordability,0.385629251
+394622,"Gainesville, FL",170,Mortgage Affordability,0.189483718
+395065,"Santa Cruz, CA",171,Mortgage Affordability,0.461981007
+394471,"Clarksville, TN",172,Mortgage Affordability,0.126713911
+394447,"Cedar Rapids, IA",173,Mortgage Affordability,0.103965008
+394851,"Merced, CA",174,Mortgage Affordability,0.248608569
+395229,"Wilmington, NC",175,Mortgage Affordability,0.207604825
+394741,"Kennewick, WA",176,Mortgage Affordability,0.208029227
+394645,"Greeley, CO",177,Mortgage Affordability,0.215345133
+395197,"Waco, TX",178,Mortgage Affordability,0.14702257
+394937,"Olympia, WA",179,Mortgage Affordability,0.200003888
+394323,"Amarillo, TX",180,Mortgage Affordability,0.121204852
+394387,"Binghamton, NY",181,Mortgage Affordability,0.105160104
+394660,"Hagerstown, WV",182,Mortgage Affordability,0.139712175
+394412,"Bremerton, WA",183,Mortgage Affordability,0.228633718
+394772,"Laredo, TX",184,Mortgage Affordability,0.147322869
+394811,"Lynchburg, VA",185,Mortgage Affordability,0.13499696
+395240,"Yakima, WA",186,Mortgage Affordability,0.20678709
+753875,"Crestview-Fort Walton Beach-Destin, FL",187,Mortgage Affordability,0.192023026
+395161,"Topeka, KS",188,Mortgage Affordability,0.095015455
+394813,"Macon-Bibb County, GA",189,Mortgage Affordability,0.125897541
+394454,"Champaign-Urbana, IL",190,Mortgage Affordability,0.116677971
+395171,"Tuscaloosa, AL",191,Mortgage Affordability,0.135859746
+394483,"College Station, TX",192,Mortgage Affordability,0.203057636
+395103,"Sioux Falls, SD",193,Mortgage Affordability,0.13369546
+394455,"Charleston, WV",194,Mortgage Affordability,0.100158422
+394334,"Appleton, WI",195,Mortgage Affordability,0.120430998
+394464,"Chico, CA",196,Mortgage Affordability,0.283770233
+394459,"Charlottesville, VA",197,Mortgage Affordability,0.183522028
+394361,"Barnstable Town, MA",199,Mortgage Affordability,0.265821194
+394803,"Longview, TX",200,Mortgage Affordability,0.128065621
+394429,"Burlington, VT",201,Mortgage Affordability,0.198654381
+395002,"Prescott, AZ",202,Mortgage Affordability,0.276663513
+395114,"Springfield, IL",203,Mortgage Affordability,0.08715937
+395174,"Tyler, TX",204,Mortgage Affordability,0.134674794
+394773,"Las Cruces, NM",205,Mortgage Affordability,0.211517077
+394585,"Fargo, ND",206,Mortgage Affordability,0.149796786
+394691,"Houma, LA",207,Mortgage Affordability,0.13809126
+395030,"Rochester, MN",208,Mortgage Affordability,0.133588661
+394597,"Florence, SC",209,Mortgage Affordability,0.112505319
+394848,"Medford, OR",210,Mortgage Affordability,0.262484405
+753895,"Lafayette-West Lafayette, IN",211,Mortgage Affordability,0.133070372
+394378,"Bellingham, WA",212,Mortgage Affordability,0.292926971
+394765,"Lake Havasu City, AZ",213,Mortgage Affordability,0.24063636
+395047,"Saginaw, MI",214,Mortgage Affordability,0.117571702
+394763,"Lake Charles, LA",215,Mortgage Affordability,0.124051313
+394726,"Johnson City, TN",216,Mortgage Affordability,0.159580307
+394565,"Elkhart, IN",217,Mortgage Affordability,0.118684086
+395247,"Yuma, AZ",218,Mortgage Affordability,0.141233346
+395011,"Racine, WI",219,Mortgage Affordability,0.16755429
+394346,"Athens, GA",220,Mortgage Affordability,0.176384231
+394681,"Hilton Head Island, SC",223,Mortgage Affordability,0.25683743
+753869,"Bloomington, IL",224,Mortgage Affordability,0.097126494
+394960,"Panama City, FL",226,Mortgage Affordability,0.183271557
+394748,"Kingston, NY",227,Mortgage Affordability,0.161639771
+394519,"Daphne, AL",228,Mortgage Affordability,0.179168455
+394623,"Gainesville, GA",229,Mortgage Affordability,0.140980342
+395202,"Warner Robins, GA",230,Mortgage Affordability,0.110653107
+394392,"Blacksburg, VA",231,Mortgage Affordability,0.138249871
+394716,"Jacksonville, NC",232,Mortgage Affordability,0.1328272
+395018,"Redding, CA",233,Mortgage Affordability,0.222249261
+394872,"Monroe, LA",234,Mortgage Affordability,0.1364435
+394729,"Joplin, MO",235,Mortgage Affordability,0.114383186
+394559,"El Centro, CA",236,Mortgage Affordability,0.20318068
+395151,"Terre Haute, IN",237,Mortgage Affordability,0.098385541
+394896,"Muskegon, MI",238,Mortgage Affordability,0.114902165
+394553,"East Stroudsburg, PA",239,Mortgage Affordability,0.11339902
+395102,"Sioux City, IA",240,Mortgage Affordability,0.102994039
+395210,"Waterloo, IA",242,Mortgage Affordability,0.113742306
+394944,"Oshkosh, WI",243,Mortgage Affordability,0.14854357
+395246,"Yuba City, CA",244,Mortgage Affordability,0.212870665
+394299,"Abilene, TX",245,Mortgage Affordability,0.110751697
+394485,"Columbia, MO",246,Mortgage Affordability,0.158274074
+394539,"Dover, DE",247,Mortgage Affordability,0.164761887
+394555,"Eau Claire, WI",248,Mortgage Affordability,0.13120863
+394710,"Jackson, MI",250,Mortgage Affordability,0.124038131
+395009,"Punta Gorda, FL",251,Mortgage Affordability,0.182082054
+394393,"Bloomington, IN",252,Mortgage Affordability,0.165311714
+395007,"Pueblo, CO",253,Mortgage Affordability,0.177662857
+394386,"Billings, MT",254,Mortgage Affordability,0.185344377
+394406,"Bowling Green, KY",255,Mortgage Affordability,0.160620829
+394380,"Bend, OR",256,Mortgage Affordability,0.268118605
+394306,"Albany, GA",257,Mortgage Affordability,0.112483392
+395193,"Vineland, NJ",258,Mortgage Affordability,0.116165594
+394917,"Niles, MI",259,Mortgage Affordability,0.133868472
+394731,"Kahului, HI",260,Mortgage Affordability,0.385334812
+394359,"Bangor, ME",263,Mortgage Affordability,0.131842266
+394314,"Alexandria, LA",264,Mortgage Affordability,0.137757881
+394662,"Hanford, CA",266,Mortgage Affordability,0.16466688
+394707,"Iowa City, IA",267,Mortgage Affordability,0.158952282
+394873,"Monroe, MI",269,Mortgage Affordability,0.118943076
+395223,"Wichita Falls, TX",270,Mortgage Affordability,0.094459066
+394428,"Burlington, NC",271,Mortgage Affordability,0.150288534
+394814,"Madera, CA",272,Mortgage Affordability,0.220490023
+394723,"Jefferson City, MO",273,Mortgage Affordability,0.137346781
+394453,"Chambersburg, PA",274,Mortgage Affordability,0.130496071
+395152,"Texarkana, TX",275,Mortgage Affordability,0.102959523
+394563,"Elizabethtown, KY",276,Mortgage Affordability,0.12349501
+395221,"Wheeling, OH",278,Mortgage Affordability,0.078036817
+394598,"Florence, AL",279,Mortgage Affordability,0.109063011
+394639,"Grand Junction, CO",280,Mortgage Affordability,0.205382248
+394537,"Dothan, AL",282,Mortgage Affordability,0.11896788
+395066,"Santa Fe, NM",283,Mortgage Affordability,0.290358985
+394727,"Johnstown, PA",284,Mortgage Affordability,0.06697888
+394671,"Hattiesburg, MS",286,Mortgage Affordability,0.147703565
+394515,"Dalton, GA",287,Mortgage Affordability,0.140727797
+394860,"Midland, TX",288,Mortgage Affordability,0.159461931
+394685,"Homosassa Springs, FL",289,Mortgage Affordability,0.161018364
+394351,"Auburn, AL",290,Mortgage Affordability,0.163223726
+395182,"Valdosta, GA",291,Mortgage Affordability,0.142895613
+394480,"Coeur d'Alene, ID",292,Mortgage Affordability,0.254560348
+395117,"Springfield, OH",293,Mortgage Affordability,0.106230356
+395119,"St. George, UT",294,Mortgage Affordability,0.260166901
+395079,"Vero Beach, FL",295,Mortgage Affordability,0.204537671
+394930,"Odessa, TX",296,Mortgage Affordability,0.147254207
+394900,"Napa, CA",297,Mortgage Affordability,0.347061169
+394368,"Battle Creek, MI",299,Mortgage Affordability,0.097919347
+395013,"Rapid City, SD",302,Mortgage Affordability,0.171495407
+394595,"Flagstaff, AZ",303,Mortgage Affordability,0.298181908
+395215,"Wausau, WI",305,Mortgage Affordability,0.113033195
+394756,"La Crosse, WI",306,Mortgage Affordability,0.139427203
+394783,"Lebanon, PA",307,Mortgage Affordability,0.134831949
+394703,"Idaho Falls, ID",308,Mortgage Affordability,0.178508864
+395098,"Sierra Vista, AZ",309,Mortgage Affordability,0.126119029
+394983,"Pittsfield, MA",310,Mortgage Affordability,0.168112675
+394780,"Lawton, OK",311,Mortgage Affordability,0.085930239
+394712,"Jackson, TN",313,Mortgage Affordability,0.112409875
+394879,"Morgantown, WV",314,Mortgage Affordability,0.151054115
+394633,"Glens Falls, NY",315,Mortgage Affordability,0.131837341
+395232,"Winchester, VA",316,Mortgage Affordability,0.156291952
+395120,"St. Joseph, MO",317,Mortgage Affordability,0.110162945
+394321,"Altoona, PA",318,Mortgage Affordability,0.108676834
+394905,"New Bern, NC",319,Mortgage Affordability,0.130778839
+394442,"Carbondale, IL",320,Mortgage Affordability,0.091929284
+394800,"Logan, ID",322,Mortgage Affordability,0.228829714
+394668,"Harrisonburg, VA",323,Mortgage Affordability,0.178028228
+394374,"Beckley, WV",324,Mortgage Affordability,0.080442863
+394824,"Mansfield, OH",325,Mortgage Affordability,0.104336147
+394635,"Goldsboro, NC",327,Mortgage Affordability,0.088522731
+394661,"Hammond, LA",329,Mortgage Affordability,0.143028718
+394728,"Jonesboro, AR",330,Mortgage Affordability,0.102595803
+395128,"Staunton, VA",333,Mortgage Affordability,0.167264855
+394893,"Muncie, IN",334,Mortgage Affordability,0.101595358
+394890,"Mount Vernon, WA",335,Mortgage Affordability,0.241294565
+394307,"Albany, OR",336,Mortgage Affordability,0.221588869
+395213,"Watertown, NY",337,Mortgage Affordability,0.123720708
+395225,"Williamsport, PA",338,Mortgage Affordability,0.129922683
+394474,"Cleveland, TN",339,Mortgage Affordability,0.143818337
+394390,"Bismarck, ND",341,Mortgage Affordability,0.167579044
+394949,"Owensboro, KY",342,Mortgage Affordability,0.120350015
+394880,"Morristown, TN",345,Mortgage Affordability,0.131567334
+394734,"Kankakee, IL",346,Mortgage Affordability,0.094530011
+394423,"Brunswick, GA",347,Mortgage Affordability,0.189057916
+395054,"San Angelo, TX",349,Mortgage Affordability,0.129709253
+394857,"Michigan City, IN",350,Mortgage Affordability,0.132364894
+395218,"Wenatchee, WA",352,Mortgage Affordability,0.245729952
+394778,"Lawrence, KS",353,Mortgage Affordability,0.169927929
+394524,"Decatur, IL",354,Mortgage Affordability,0.06448015
+394867,"Missoula, MT",355,Mortgage Affordability,0.257686892
+394369,"Bay City, MI",357,Mortgage Affordability,0.092221887
+394788,"Lewiston, ME",358,Mortgage Affordability,0.155168268
+395139,"Sumter, SC",360,Mortgage Affordability,0.074796847
+394794,"Lima, OH",365,Mortgage Affordability,0.084994354
+753872,"California-Lexington Park, MD",367,Mortgage Affordability,0.157406688
+394620,"Gadsden, AL",368,Mortgage Affordability,0.112697832
+394513,"Cumberland, MD",369,Mortgage Affordability,0.101352752
+394804,"Longview, WA",370,Mortgage Affordability,0.250581362
+394599,"Fond du Lac, WI",372,Mortgage Affordability,0.110004821
+394709,"Ithaca, NY",373,Mortgage Affordability,0.163353713
+394630,"Gettysburg, PA",375,Mortgage Affordability,0.142258272
+394980,"Pine Bluff, AR",376,Mortgage Affordability,0.086184133
+395080,"Sebring, FL",382,Mortgage Affordability,0.170792638
+394637,"Grand Forks, ND",385,Mortgage Affordability,0.179949317
+394580,"Fairbanks, AK",387,Mortgage Affordability,0.146411793
+394928,"Ocean City, NJ",388,Mortgage Affordability,0.229295202
+394823,"Mankato, MN",389,Mortgage Affordability,0.143104566
+395038,"Rome, GA",390,Mortgage Affordability,0.126087658
+394441,"Cape Girardeau, MO",391,Mortgage Affordability,0.147401339
+394689,"Hot Springs, AR",392,Mortgage Affordability,0.137070036
+395190,"Victoria, TX",396,Mortgage Affordability,0.154201085
+394542,"Dubuque, IA",398,Mortgage Affordability,0.119461907
+395153,"The Villages, FL",399,Mortgage Affordability,0.22554244
+394821,"Manhattan, KS",401,Mortgage Affordability,0.170721615
+394964,"Parkersburg, WV",402,Mortgage Affordability,0.103642658
+394462,"Cheyenne, WY",405,Mortgage Affordability,0.185695721
+394325,"Ames, IA",410,Mortgage Affordability,0.126148485
+394568,"Elmira, NY",414,Mortgage Affordability,0.084617529
+394505,"Corvallis, OR",422,Mortgage Affordability,0.266634416
+394395,"Bloomsburg, PA",423,Mortgage Affordability,0.116861325
+394859,"Midland, MI",428,Mortgage Affordability,0.098753865
+394988,"Pocatello, ID",430,Mortgage Affordability,0.154369937
+394755,"Kokomo, IN",431,Mortgage Affordability,0.0911091
+394641,"Grants Pass, OR",432,Mortgage Affordability,0.272840345
+394638,"Grand Island, NE",435,Mortgage Affordability,0.112719039
+394516,"Danville, IL",437,Mortgage Affordability,0.0616176
+394644,"Great Falls, MT",439,Mortgage Affordability,0.189487935
+394489,"Columbus, IN",456,Mortgage Affordability,0.110922384
+394445,"Casper, WY",459,Mortgage Affordability,0.153145404
+395199,"Walla Walla, WA",512,Mortgage Affordability,0.200825334
+394787,"Lewiston, ID",525,Mortgage Affordability,0.19491553
+394444,"Carson City, NV",552,Mortgage Affordability,0.271813338
+102001,United States,0,Rent Affordability,0.27793629
+394913,"New York, NY",1,Rent Affordability,0.36319399
+753899,"Los Angeles-Long Beach-Anaheim, CA",2,Rent Affordability,0.460770206
+394463,"Chicago, IL",3,Rent Affordability,0.282186543
+394514,"Dallas-Fort Worth, TX",4,Rent Affordability,0.279580024
+394974,"Philadelphia, PA",5,Rent Affordability,0.267717914
+394692,"Houston, TX",6,Rent Affordability,0.287073078
+395209,"Washington, DC",7,Rent Affordability,0.251112295
+394856,"Miami-Fort Lauderdale, FL",8,Rent Affordability,0.407420479
+394347,"Atlanta, GA",9,Rent Affordability,0.254779283
+394404,"Boston, MA",10,Rent Affordability,0.316815639
+395057,"San Francisco, CA",11,Rent Affordability,0.383208757
+394532,"Detroit, MI",12,Rent Affordability,0.239757988
+395025,"Riverside, CA",13,Rent Affordability,0.363860589
+394976,"Phoenix, AZ",14,Rent Affordability,0.267336583
+395078,"Seattle, WA",15,Rent Affordability,0.310094312
+394865,"Minneapolis-St Paul, MN",16,Rent Affordability,0.25364457
+395056,"San Diego, CA",17,Rent Affordability,0.392747698
+395121,"St. Louis, MO",18,Rent Affordability,0.214942053
+395148,"Tampa, FL",19,Rent Affordability,0.319269012
+394358,"Baltimore, MD",20,Rent Affordability,0.263369856
+394530,"Denver, CO",21,Rent Affordability,0.312930669
+394982,"Pittsburgh, PA",22,Rent Affordability,0.214149349
+394998,"Portland, OR",23,Rent Affordability,0.294706864
+394458,"Charlotte, NC",24,Rent Affordability,0.252290707
+395045,"Sacramento, CA",25,Rent Affordability,0.322458885
+395055,"San Antonio, TX",26,Rent Affordability,0.279616978
+394943,"Orlando, FL",27,Rent Affordability,0.320589094
+394466,"Cincinnati, OH",28,Rent Affordability,0.242036971
+394475,"Cleveland, OH",29,Rent Affordability,0.25626576
+394735,"Kansas City, MO",30,Rent Affordability,0.234423613
+394775,"Las Vegas, NV",31,Rent Affordability,0.277736534
+394492,"Columbus, OH",32,Rent Affordability,0.243547823
+394705,"Indianapolis, IN",33,Rent Affordability,0.237741682
+395059,"San Jose, CA",34,Rent Affordability,0.341657603
+394355,"Austin, TX",35,Rent Affordability,0.265580509
+395194,"Virginia Beach, VA",36,Rent Affordability,0.25954633
+394902,"Nashville, TN",37,Rent Affordability,0.272605633
+395005,"Providence, RI",38,Rent Affordability,0.293165687
+394862,"Milwaukee, WI",39,Rent Affordability,0.258382186
+394714,"Jacksonville, FL",40,Rent Affordability,0.274650102
+394849,"Memphis, TN",41,Rent Affordability,0.254747609
+394935,"Oklahoma City, OK",42,Rent Affordability,0.225233682
+394807,"Louisville-Jefferson County, KY",43,Rent Affordability,0.240224738
+394669,"Hartford, CT",44,Rent Affordability,0.258517644
+395022,"Richmond, VA",45,Rent Affordability,0.24227807
+394910,"New Orleans, LA",46,Rent Affordability,0.326636549
+394425,"Buffalo, NY",47,Rent Affordability,0.250287355
+395012,"Raleigh, NC",48,Rent Affordability,0.231834897
+394388,"Birmingham, AL",49,Rent Affordability,0.241307706
+395053,"Salt Lake City, UT",50,Rent Affordability,0.257770358
+395031,"Rochester, NY",51,Rent Affordability,0.281152725
+394640,"Grand Rapids, MI",52,Rent Affordability,0.25482764
+395167,"Tucson, AZ",53,Rent Affordability,0.275074354
+753924,"Urban Honolulu, HI",54,Rent Affordability,0.340851511
+395169,"Tulsa, OK",55,Rent Affordability,0.228978675
+394619,"Fresno, CA",56,Rent Affordability,0.299166141
+395238,"Worcester, MA",57,Rent Affordability,0.269915552
+394312,"Albuquerque, NM",59,Rent Affordability,0.277911117
+394308,"Albany, NY",60,Rent Affordability,0.251870251
+394938,"Omaha, NE",61,Rent Affordability,0.22987131
+394908,"New Haven, CT",62,Rent Affordability,0.278708652
+394357,"Bakersfield, CA",63,Rent Affordability,0.303463813
+394753,"Knoxville, TN",64,Rent Affordability,0.259167747
+394653,"Greenville, SC",65,Rent Affordability,0.280781907
+394318,"Allentown, PA",67,Rent Affordability,0.263038826
+394561,"El Paso, TX",68,Rent Affordability,0.260896457
+394367,"Baton Rouge, LA",69,Rent Affordability,0.264574795
+394521,"Dayton, OH",70,Rent Affordability,0.218886274
+394843,"McAllen, TX",71,Rent Affordability,0.311510065
+394486,"Columbia, SC",72,Rent Affordability,0.244411691
+394648,"Greensboro, NC",73,Rent Affordability,0.240236827
+394304,"Akron, OH",74,Rent Affordability,0.225801283
+753906,"North Port-Sarasota-Bradenton, FL",75,Rent Affordability,0.366560623
+394798,"Little Rock, AR",76,Rent Affordability,0.220989668
+395134,"Stockton, CA",77,Rent Affordability,0.318028447
+394457,"Charleston, SC",78,Rent Affordability,0.313877004
+395143,"Syracuse, NY",79,Rent Affordability,0.270648336
+394484,"Colorado Springs, CO",80,Rent Affordability,0.27189893
+395235,"Winston-Salem, NC",81,Rent Affordability,0.26254659
+395224,"Wichita, KS",82,Rent Affordability,0.202994584
+395115,"Springfield, MA",83,Rent Affordability,0.33794321
+394399,"Boise City, ID",85,Rent Affordability,0.279047234
+395160,"Toledo, OH",86,Rent Affordability,0.221152683
+394816,"Madison, WI",87,Rent Affordability,0.234996265
+394766,"Lakeland, FL",88,Rent Affordability,0.301992213
+394931,"Ogden, UT",89,Rent Affordability,0.240996025
+394531,"Des Moines, IA",91,Rent Affordability,0.217568561
+394711,"Jackson, MS",92,Rent Affordability,0.269261347
+395245,"Youngstown, OH",93,Rent Affordability,0.210010075
+394352,"Augusta, GA",94,Rent Affordability,0.215933105
+395075,"Scranton, PA",95,Rent Affordability,0.217519593
+394666,"Harrisburg, PA",96,Rent Affordability,0.22612758
+394460,"Chattanooga, TN",98,Rent Affordability,0.276592915
+395113,"Spokane, WA",99,Rent Affordability,0.289410609
+395006,"Provo, UT",100,Rent Affordability,0.244205287
+394768,"Lancaster, PA",101,Rent Affordability,0.222705626
+394871,"Modesto, CA",102,Rent Affordability,0.294974396
+394549,"Durham, NC",104,Rent Affordability,0.265804201
+395068,"Santa Rosa, CA",105,Rent Affordability,0.391851614
+394792,"Lexington, KY",106,Rent Affordability,0.237786095
+394761,"Lafayette, LA",107,Rent Affordability,0.280216206
+394770,"Lansing, MI",108,Rent Affordability,0.242378656
+394590,"Fayetteville, AR",109,Rent Affordability,0.237776661
+394971,"Pensacola, FL",110,Rent Affordability,0.261407173
+395195,"Visalia, CA",111,Rent Affordability,0.304512131
+395096,"Shreveport, LA",112,Rent Affordability,0.314532732
+395116,"Springfield, MO",113,Rent Affordability,0.202628719
+395244,"York, PA",114,Rent Affordability,0.233626638
+394502,"Corpus Christi, TX",115,Rent Affordability,0.307593924
+394596,"Flint, MI",116,Rent Affordability,0.200621148
+395019,"Reno, NV",117,Rent Affordability,0.326370451
+394338,"Asheville, NC",118,Rent Affordability,0.332025062
+394995,"Port St. Lucie, FL",119,Rent Affordability,0.358367222
+394698,"Huntsville, AL",121,Rent Affordability,0.218779082
+394612,"Fort Wayne, IN",122,Rent Affordability,0.240830103
+395050,"Salinas, CA",123,Rent Affordability,0.411739476
+395183,"Vallejo, CA",124,Rent Affordability,0.328730347
+394870,"Mobile, AL",125,Rent Affordability,0.240632712
+395015,"Reading, PA",126,Rent Affordability,0.239427163
+394421,"Brownsville, TX",127,Rent Affordability,0.287281764
+394746,"Killeen, TX",128,Rent Affordability,0.223316301
+394439,"Canton, OH",129,Rent Affordability,0.213526945
+394372,"Beaumont, TX",130,Rent Affordability,0.278750759
+394820,"Manchester, NH",131,Rent Affordability,0.267309678
+395048,"Salem, OR",132,Rent Affordability,0.31687964
+394327,"Anchorage, AK",133,Rent Affordability,0.26496261
+394972,"Peoria, IL",135,Rent Affordability,0.198050399
+394898,"Myrtle Beach, SC",136,Rent Affordability,0.308802453
+394875,"Montgomery, AL",137,Rent Affordability,0.220017493
+394658,"Gulfport, MS",139,Rent Affordability,0.257419227
+395146,"Tallahassee, FL",140,Rent Affordability,0.281303692
+395164,"Trenton, NJ",141,Rent Affordability,0.272877719
+394589,"Fayetteville, NC",142,Rent Affordability,0.233536672
+394679,"Hickory, NC",143,Rent Affordability,0.238210955
+394697,"Huntington, WV",144,Rent Affordability,0.264578756
+394576,"Eugene, OR",145,Rent Affordability,0.325860152
+395033,"Rockford, IL",146,Rent Affordability,0.232764258
+395070,"Savannah, GA",147,Rent Affordability,0.262269866
+394332,"Ann Arbor, MI",148,Rent Affordability,0.296211536
+394927,"Ocala, FL",149,Rent Affordability,0.306280796
+394732,"Kalamazoo, MI",150,Rent Affordability,0.262670233
+395107,"South Bend, IN",152,Rent Affordability,0.222035245
+395109,"Spartanburg, SC",153,Rent Affordability,0.252591824
+394579,"Evansville, IN",154,Rent Affordability,0.220804701
+394747,"Kingsport, TN",155,Rent Affordability,0.269903011
+395028,"Roanoke, VA",156,Rent Affordability,0.252325294
+394796,"Lincoln, NE",158,Rent Affordability,0.24788531
+394602,"Fort Collins, CO",159,Rent Affordability,0.290956883
+394488,"Columbus, GA",161,Rent Affordability,0.246539073
+394405,"Boulder, CO",162,Rent Affordability,0.321092999
+394808,"Lubbock, TX",163,Rent Affordability,0.285154714
+394572,"Erie, PA",164,Rent Affordability,0.216634102
+394609,"Fort Smith, AR",165,Rent Affordability,0.245233843
+394543,"Duluth, MN",166,Rent Affordability,0.239723797
+394348,"Atlantic City, NJ",167,Rent Affordability,0.268519522
+395061,"San Luis Obispo, CA",169,Rent Affordability,0.391260014
+394622,"Gainesville, FL",170,Rent Affordability,0.357178402
+395065,"Santa Cruz, CA",171,Rent Affordability,0.444719031
+394471,"Clarksville, TN",172,Rent Affordability,0.212790716
+394447,"Cedar Rapids, IA",173,Rent Affordability,0.199690079
+394851,"Merced, CA",174,Rent Affordability,0.324804748
+395229,"Wilmington, NC",175,Rent Affordability,0.318480748
+394741,"Kennewick, WA",176,Rent Affordability,0.266786332
+394645,"Greeley, CO",177,Rent Affordability,0.288141535
+395197,"Waco, TX",178,Rent Affordability,0.303519785
+394937,"Olympia, WA",179,Rent Affordability,0.267487993
+394323,"Amarillo, TX",180,Rent Affordability,0.251427001
+394387,"Binghamton, NY",181,Rent Affordability,0.265302721
+394660,"Hagerstown, WV",182,Rent Affordability,0.232873515
+394412,"Bremerton, WA",183,Rent Affordability,0.283113808
+394811,"Lynchburg, VA",185,Rent Affordability,0.246880549
+395240,"Yakima, WA",186,Rent Affordability,0.290609157
+753875,"Crestview-Fort Walton Beach-Destin, FL",187,Rent Affordability,0.298700237
+395161,"Topeka, KS",188,Rent Affordability,0.194282414
+394813,"Macon-Bibb County, GA",189,Rent Affordability,0.278111422
+394454,"Champaign-Urbana, IL",190,Rent Affordability,0.258116734
+395171,"Tuscaloosa, AL",191,Rent Affordability,0.278117976
+395103,"Sioux Falls, SD",193,Rent Affordability,0.210091534
+394455,"Charleston, WV",194,Rent Affordability,0.238326494
+394464,"Chico, CA",196,Rent Affordability,0.350351005
+394459,"Charlottesville, VA",197,Rent Affordability,0.26746208
+394361,"Barnstable Town, MA",199,Rent Affordability,0.29746569
+394803,"Longview, TX",200,Rent Affordability,0.288082959
+395002,"Prescott, AZ",202,Rent Affordability,0.360983389
+395114,"Springfield, IL",203,Rent Affordability,0.182287791
+395174,"Tyler, TX",204,Rent Affordability,0.261274079
+394773,"Las Cruces, NM",205,Rent Affordability,0.321715372
+394691,"Houma, LA",207,Rent Affordability,0.288737255
+395030,"Rochester, MN",208,Rent Affordability,0.219724588
+394597,"Florence, SC",209,Rent Affordability,0.28725698
+394848,"Medford, OR",210,Rent Affordability,0.340223109
+753895,"Lafayette-West Lafayette, IN",211,Rent Affordability,0.252023376
+394378,"Bellingham, WA",212,Rent Affordability,0.323964561
+394765,"Lake Havasu City, AZ",213,Rent Affordability,0.337682922
+395047,"Saginaw, MI",214,Rent Affordability,0.21633904
+394726,"Johnson City, TN",216,Rent Affordability,0.280788195
+394565,"Elkhart, IN",217,Rent Affordability,0.213015723
+395247,"Yuma, AZ",218,Rent Affordability,0.221696563
+394346,"Athens, GA",220,Rent Affordability,0.314480795
+395118,"St. Cloud, MN",222,Rent Affordability,0.239788879
+394960,"Panama City, FL",226,Rent Affordability,0.324878981
+394748,"Kingston, NY",227,Rent Affordability,0.307361452
+394623,"Gainesville, GA",229,Rent Affordability,0.252845054
+395202,"Warner Robins, GA",230,Rent Affordability,0.219465735
+394392,"Blacksburg, VA",231,Rent Affordability,0.260315603
+394716,"Jacksonville, NC",232,Rent Affordability,0.213893621
+395018,"Redding, CA",233,Rent Affordability,0.309702713
+394729,"Joplin, MO",235,Rent Affordability,0.182339554
+395151,"Terre Haute, IN",237,Rent Affordability,0.199757256
+394896,"Muskegon, MI",238,Rent Affordability,0.220625013
+395102,"Sioux City, IA",240,Rent Affordability,0.210033398
+394651,"Greenville, NC",241,Rent Affordability,0.26683663
+395210,"Waterloo, IA",242,Rent Affordability,0.232970407
+395246,"Yuba City, CA",244,Rent Affordability,0.28670392
+394299,"Abilene, TX",245,Rent Affordability,0.235658417
+394485,"Columbia, MO",246,Rent Affordability,0.252265854
+394539,"Dover, DE",247,Rent Affordability,0.258762716
+394555,"Eau Claire, WI",248,Rent Affordability,0.229859937
+394720,"Janesville, WI",249,Rent Affordability,0.182644784
+394710,"Jackson, MI",250,Rent Affordability,0.21781472
+394393,"Bloomington, IN",252,Rent Affordability,0.286415444
+395007,"Pueblo, CO",253,Rent Affordability,0.301486178
+394386,"Billings, MT",254,Rent Affordability,0.25213854
+394406,"Bowling Green, KY",255,Rent Affordability,0.273493391
+394380,"Bend, OR",256,Rent Affordability,0.297247588
+394306,"Albany, GA",257,Rent Affordability,0.247324885
+395193,"Vineland, NJ",258,Rent Affordability,0.268157288
+395125,"State College, PA",262,Rent Affordability,0.314995687
+394314,"Alexandria, LA",264,Rent Affordability,0.319231934
+394523,"Decatur, AL",265,Rent Affordability,0.206422593
+394662,"Hanford, CA",266,Rent Affordability,0.237131323
+394707,"Iowa City, IA",267,Rent Affordability,0.261019837
+394873,"Monroe, MI",269,Rent Affordability,0.236795341
+395223,"Wichita Falls, TX",270,Rent Affordability,0.231981475
+394428,"Burlington, NC",271,Rent Affordability,0.267224661
+394814,"Madera, CA",272,Rent Affordability,0.297540477
+394723,"Jefferson City, MO",273,Rent Affordability,0.205927709
+394563,"Elizabethtown, KY",276,Rent Affordability,0.227264561
+394598,"Florence, AL",279,Rent Affordability,0.222890454
+394639,"Grand Junction, CO",280,Rent Affordability,0.28236065
+394537,"Dothan, AL",282,Rent Affordability,0.230382722
+395066,"Santa Fe, NM",283,Rent Affordability,0.369822172
+394727,"Johnstown, PA",284,Rent Affordability,0.165592108
+394515,"Dalton, GA",287,Rent Affordability,0.312513827
+394351,"Auburn, AL",290,Rent Affordability,0.263948158
+395182,"Valdosta, GA",291,Rent Affordability,0.286655471
+394480,"Coeur d'Alene, ID",292,Rent Affordability,0.283616491
+395117,"Springfield, OH",293,Rent Affordability,0.20830944
+395119,"St. George, UT",294,Rent Affordability,0.314232129
+395013,"Rapid City, SD",302,Rent Affordability,0.2650725
+394783,"Lebanon, PA",307,Rent Affordability,0.232239496
+394703,"Idaho Falls, ID",308,Rent Affordability,0.24641888
+394780,"Lawton, OK",311,Rent Affordability,0.166279083
+394588,"Farmington, NM",312,Rent Affordability,0.278185043
+394712,"Jackson, TN",313,Rent Affordability,0.244724468
+394879,"Morgantown, WV",314,Rent Affordability,0.266018764
+395232,"Winchester, VA",316,Rent Affordability,0.244943474
+395120,"St. Joseph, MO",317,Rent Affordability,0.191801046
+394321,"Altoona, PA",318,Rent Affordability,0.220054765
+394800,"Logan, ID",322,Rent Affordability,0.23335315
+394668,"Harrisonburg, VA",323,Rent Affordability,0.289942363
+394635,"Goldsboro, NC",327,Rent Affordability,0.256128901
+394728,"Jonesboro, AR",330,Rent Affordability,0.226017999
+394333,"Anniston, AL",332,Rent Affordability,0.187776482
+394890,"Mount Vernon, WA",335,Rent Affordability,0.289674492
+395225,"Williamsport, PA",338,Rent Affordability,0.238205396
+394474,"Cleveland, TN",339,Rent Affordability,0.241459273
+395089,"Sheboygan, WI",340,Rent Affordability,0.212302209
+394390,"Bismarck, ND",341,Rent Affordability,0.253681814
+394949,"Owensboro, KY",342,Rent Affordability,0.240833179
+394880,"Morristown, TN",345,Rent Affordability,0.267794248
+394734,"Kankakee, IL",346,Rent Affordability,0.223439354
+394423,"Brunswick, GA",347,Rent Affordability,0.339025467
+394857,"Michigan City, IN",350,Rent Affordability,0.206395368
+395218,"Wenatchee, WA",352,Rent Affordability,0.314518673
+394778,"Lawrence, KS",353,Rent Affordability,0.274217101
+394524,"Decatur, IL",354,Rent Affordability,0.210714232
+394867,"Missoula, MT",355,Rent Affordability,0.289060306
+394369,"Bay City, MI",357,Rent Affordability,0.206777641
+394788,"Lewiston, ME",358,Rent Affordability,0.307251305
+395139,"Sumter, SC",360,Rent Affordability,0.213306189
+394794,"Lima, OH",365,Rent Affordability,0.204825048
+394620,"Gadsden, AL",368,Rent Affordability,0.247323437
+394804,"Longview, WA",370,Rent Affordability,0.330850537
+394980,"Pine Bluff, AR",376,Rent Affordability,0.217275808
+394637,"Grand Forks, ND",385,Rent Affordability,0.27849352
+394580,"Fairbanks, AK",387,Rent Affordability,0.249912461
+394823,"Mankato, MN",389,Rent Affordability,0.248635966
+395038,"Rome, GA",390,Rent Affordability,0.269648367
+394441,"Cape Girardeau, MO",391,Rent Affordability,0.225081317
+394542,"Dubuque, IA",398,Rent Affordability,0.206540392
+394821,"Manhattan, KS",401,Rent Affordability,0.274153768
+394964,"Parkersburg, WV",402,Rent Affordability,0.235588969
+394325,"Ames, IA",410,Rent Affordability,0.225818567
+394988,"Pocatello, ID",430,Rent Affordability,0.206658806
+394755,"Kokomo, IN",431,Rent Affordability,0.186145477
+394644,"Great Falls, MT",439,Rent Affordability,0.295130529
+394682,"Hinesville, GA",448,Rent Affordability,0.236572855
+394489,"Columbus, IN",456,Rent Affordability,0.219492037
+394445,"Casper, WY",459,Rent Affordability,0.213592125
+394787,"Lewiston, ID",525,Rent Affordability,0.268578358
+394444,"Carson City, NV",552,Rent Affordability,0.33713295

@@ -1,0 +1,201 @@
+City,pop2019,City2,2018 Rank,Population 2018,County
+Los Angeles,4057841,Los Angeles,1,3990456,Los Angeles
+San Diego,1453775,San Diego,2,1425976,San Diego
+San Jose,1033519,San Jose,3,1030119,Santa Clara
+San Francisco,897536,San Francisco,4,883305,San Francisco
+Fresno,532703,Fresno,5,530093,Fresno
+Sacramento,513330,Sacramento,6,508529,Sacramento
+Long Beach,466203,Long Beach,7,467354,Los Angeles
+Oakland,426410,Oakland,8,429082,Alameda
+Bakersfield,388092,Bakersfield,9,383579,Kern
+Anaheim,356308,Anaheim,10,352005,Orange
+Riverside,335048,Riverside,12,330063,Riverside
+Santa Ana,334811,Santa Ana,11,332725,Orange
+Stockton,314584,Stockton,13,311178,San Joaquin
+Irvine,297019,Irvine,14,282572,Orange
+Chula Vista,273565,Chula Vista,15,271651,San Diego
+Fremont,238281,Fremont,16,237807,Alameda
+Modesto,218436,Modesto,18,215030,Stanislaus
+San Bernardino,218306,San Bernardino,17,215941,San Bernardino
+Fontana,217981,Fontana,19,213739,San Bernardino
+Oxnard,211926,Oxnard,21,209877,Ventura
+Moreno Valley,211682,Moreno Valley,22,209050,Riverside
+Glendale,204008,Glendale,23,201361,Los Angeles
+Huntington Beach,199470,Huntington Beach,24,200641,Orange
+Santa Clarita,183922,Santa Clarita,20,210089,Los Angeles
+Rancho Cucamonga,181823,Rancho Cucamonga,26,177751,San Bernardino
+Ontario,180583,Ontario,25,181107,San Bernardino
+Elk Grove,179835,Elk Grove,29,172886,Sacramento
+Oceanside,176466,Oceanside,28,176080,San Diego
+Santa Rosa,176439,Santa Rosa,27,177586,Sonoma
+Corona,176163,Corona,31,168819,Riverside
+Garden Grove,175428,Garden Grove,30,172646,Orange
+Hayward,162459,Hayward,33,159620,Alameda
+Lancaster,159800,Lancaster,32,161103,Los Angeles
+Salinas,158850,Salinas,35,156259,Monterey
+Sunnyvale,157727,Sunnyvale,36,153185,Santa Clara
+Palmdale,157125,Palmdale,34,156667,Los Angeles
+Escondido,153242,Escondido,38,152213,San Diego
+Pomona,152788,Pomona,37,152361,Los Angeles
+Torrance,145857,Torrance,39,145182,Los Angeles
+Pasadena,143922,Pasadena,40,141371,Los Angeles
+Fullerton,142119,Fullerton,41,139640,Orange
+Roseville,140930,Roseville,43,139117,Placer
+Orange,140723,Orange,42,139484,Orange
+Visalia,135337,Visalia,44,133800,Tulare
+Concord,130487,Concord,45,129688,Contra Costa
+Thousand Oaks,128810,Thousand Oaks,47,127690,Ventura
+Santa Clara,126701,Santa Clara,46,129488,Santa Clara
+Simi Valley,126213,Simi Valley,48,125851,Ventura
+Victorville,123345,Victorville,49,122312,San Bernardino
+Berkeley,123121,Berkeley,51,121643,Alameda
+Vallejo,122919,Vallejo,50,121913,Solano
+Fairfield,121470,Fairfield,52,116884,Solano
+Murrieta,118445,Murrieta,55,114985,Riverside
+Temecula,117416,Temecula,56,114742,Riverside
+Carlsbad,116031,Carlsbad,53,115877,San Diego
+El Monte,115039,El Monte,54,115586,Los Angeles
+Clovis,114554,Clovis,59,112022,Fresno
+Costa Mesa,113068,Costa Mesa,57,113615,Orange
+Antioch,113025,Antioch,60,111535,Contra Costa
+Downey,112379,Downey,58,112269,Los Angeles
+Richmond,111232,Richmond,62,110146,Contra Costa
+Santa Maria,110589,Santa Maria,65,107408,Santa Barbara
+Ventura,110354,Ventura,61,111128,Ventura
+Inglewood,109529,Inglewood,63,109419,Los Angeles
+Jurupa Valley,109040,Jurupa Valley,64,108393,Riverside
+West Covina,107808,West Covina,67,106311,Los Angeles
+Daly City,107000,Daly City,66,107008,San Mateo
+San Mateo,106029,San Mateo,69,105025,San Mateo
+Vista,105214,Vista,73,101224,San Diego
+Norwalk,105119,Norwalk,68,105120,Los Angeles
+El Cajon,104719,El Cajon,72,103241,San Diego
+Rialto,104682,Rialto,71,103440,San Bernardino
+Vacaville,103955,Vacaville,74,100154,Solano
+Burbank,103418,Burbank,70,103695,Los Angeles
+San Marcos,103025,San Marcos,75,96847,San Diego
+Compton,96500,Compton,76,96617,Los Angeles
+Tracy,96039,Tracy,83,91812,San Joaquin
+Hesperia,95755,Hesperia,77,95274,San Bernardino
+Chico,95476,Chico,79,94776,Butte
+Mission Viejo,95352,Mission Viejo,78,95202,Orange
+Chino,95015,Chino,85,91583,San Bernardino
+South Gate,94509,South Gate,80,94443,Los Angeles
+Menifee,93625,Menifee,81,92595,Riverside
+Livermore,92982,Livermore,90,90269,Alameda
+Redding,92840,Redding,84,91772,Shasta
+Santa Barbara,92815,Santa Barbara,87,91350,Santa Barbara
+Indio,92322,Indio,88,91240,Riverside
+Carson,92233,Carson,82,91909,Los Angeles
+Santa Monica,91857,Santa Monica,86,91411,Los Angeles
+Pleasanton,91525,,,,
+Westminster,91070,Westminster,89,90938,Orange
+San Leandro,90618,San Leandro,91,89703,Alameda
+Citrus Heights,89382,Citrus Heights,92,87910,Sacramento
+Hawthorne,88322,Hawthorne,93,86965,Los Angeles
+Alhambra,86722,Alhambra,99,84649,Los Angeles
+Whittier,86694,Whittier,95,86064,Los Angeles
+Lake Forest,86519,Lake Forest,96,85623,Orange
+Newport Beach,86457,Newport Beach,97,85326,Orange
+Hemet,86393,Hemet,98,85275,Riverside
+Redwood City,84602,Redwood City,94,86200,San Mateo
+Merced,84331,,,,
+Buena Park,83840,,,,
+Manteca,82134,,,,
+Mountain View,81500,,,,
+Lakewood,81126,,,,
+Napa,81019,,,,
+Chino Hills,80988,Chino Hills,100,83447,San Bernardino
+Tustin,80884,,,,
+Perris,80771,,,,
+Folsom,80622,,,,
+Alameda,80535,,,,
+Union City,78550,,,,
+Milpitas,78305,,,,
+Upland,78022,,,,
+San Ramon,77256,,,,
+Bellflower,77187,,,,
+Rancho Cordova,76955,,,,
+Baldwin Park,75972,,,,
+Turlock,75319,,,,
+Pittsburg,75140,,,,
+Apple Valley,74272,,,,
+Redlands,72596,,,,
+Walnut Creek,70433,,,,
+Davis,70220,,,,
+Lake Elsinore,70010,,,,
+Lynwood,69999,,,,
+Yorba Linda,69870,,,,
+Palo Alto,68395,,,,
+Redondo Beach,68152,,,,
+Rocklin,68007,,,,
+Yuba City,67568,,,,
+Camarillo,67435,,,,
+South San Francisco,66629,,,,
+Madera,66028,,,,
+Brentwood,65827,,,,
+Dublin,65790,,,,
+Santa Cruz,65524,,,,
+San Clemente,65477,,,,
+Lodi,65466,,,,
+Eastvale,65162,,,,
+Tulare,64807,,,,
+Laguna Niguel,64722,,,,
+Encinitas,64238,,,,
+Pico Rivera,62990,,,,
+Montebello,62681,,,,
+National City,61897,,,,
+Cupertino,61600,,,,
+Woodland,61255,,,,
+Gilroy,61252,,,,
+Petaluma,61046,,,,
+La Habra,61043,,,,
+Monterey Park,60958,,,,
+La Mesa,60164,,,,
+Gardena,59880,,,,
+Arcadia,59879,,,,
+Porterville,58912,,,,
+San Rafael,58447,,,,
+Santee,58416,,,,
+Huntington Park,58252,,,,
+Novato,57558,,,,
+Diamond Bar,57462,,,,
+Hanford,55991,,,,
+Fountain Valley,55866,,,,
+Aliso Viejo,55741,,,,
+Highland,55602,,,,
+Colton,55432,,,,
+Cathedral City,55346,,,,
+Watsonville,54627,,,,
+West Sacramento,54406,,,,
+Paramount,54336,,,,
+Rosemead,54221,,,,
+Palm Desert,53890,,,,
+Yucaipa,53672,,,,
+Cerritos,53156,,,,
+Delano,53034,,,,
+Glendora,52268,,,,
+Placentia,52075,,,,
+Beaumont,50509,,,,
+Azusa,50267,,,,
+Poway,50254,,,,
+Ceres,50009,,,,
+San Jacinto,49321,,,,
+Palm Springs,49153,,,,
+La Mirada,49108,,,,
+Lincoln,49088,,,,
+San Luis Obispo,48529,,,,
+Rancho Santa Margarita,48516,,,,
+Cypress,48366,,,,
+Morgan Hill,48328,,,,
+Covina,48087,,,,
+Newark,47688,,,,
+Coachella,46345,,,,
+Danville,45780,,,,
+El Centro,45224,,,,
+Brea,44577,,,,
+Rohnert Park,43444,,,,
+Oakley,43442,,,,
+La Quinta,42861,,,,
+Bell Gardens,42647,,,,
+Lompoc,42635,,,,
